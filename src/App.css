@@ -1,0 +1,184 @@
+body{
+  background-color: rgb(30, 30, 30);
+  display: block;
+}
+
+#header{
+  background-color: rgba(0, 95, 56, 0.687);
+  color: white;
+  align-content: center;
+  text-align: center;
+  height: 70px;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#table{
+  margin-top: auto;
+  width: 100%;
+}
+
+#filters{
+  margin-top: 10px;
+  background-color: rgb(25, 26, 26);
+  height: 250px;
+  width: 100%;
+  border: 1px white solid;
+  display: block;
+  border-radius: 30px;
+ 
+}
+
+#filter-heading{
+  margin-left: 10px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#choices{
+  display: block;
+  margin-left: 10px;
+  width: 100%;
+  height: 100%;
+  
+}
+
+#clgInfo{
+  display: flex;
+  padding: 10px;
+}
+
+#examinationInfo{
+  margin-right: 70px;
+}
+
+#rankInfo{
+  margin-right: 80px;
+}
+
+#programInfo{
+  margin-left: 50px;
+} 
+
+#typeClgInfo{
+  margin-right: 50px;
+}
+
+#poolInfo{
+  margin-left: 50px;
+}
+
+#durationInfo{
+  margin-left: 50px;
+}
+
+#personalInfo{
+  display: flex;
+  padding: 10px;
+  
+}
+
+
+.infoButton{
+  background-color: rgba(0, 95, 56, 0.687);
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: white;
+  border-radius: 10px;
+  border: none;
+}
+
+.dropdownSelect{
+  width: 100%;
+  color: black;
+  max-width: 300px;
+  height: 34px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.70);
+  border: none;
+  border-radius: 10px;
+}
+
+.dropdown-content{
+  max-width: 200px;
+  background-color: black;
+}
+
+#rank{
+  width: 85px;
+  height: 30px;
+  text-align: center;
+  background-color: rgba(225, 225, 225, 0.70);
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#tableContainer{
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+#mainTable{
+  font-size: 20px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px white solid;
+}
+
+#keywords {
+  margin: 0 auto;
+  font-size: 1.2em;
+  margin-bottom: 15px;
+  color: white;
+}
+
+
+#keywords thead {
+  cursor: pointer;
+  background:rgba(0, 95, 56, 0.687);
+  border: 1px white solid;
+  cursor: auto;
+}
+#keywords thead tr th { 
+  font-weight: bold;
+  padding: 12px 30px;
+  padding-left: 42px;
+  border: 1px white solid;
+}
+#keywords thead tr th span { 
+  padding-right: 20px;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+}
+
+#keywords thead tr th.headerSortUp, #keywords thead tr th.headerSortDown {
+  background: rgba(0, 95, 56, 0.687);
+}
+
+
+
+#keywords tbody tr { 
+  color: #ffffff;
+}
+#keywords tbody tr td {
+  text-align: center;
+  padding: 15px 10px;
+  border: 1px white solid;
+}
+#keywords tbody tr td.lalign {
+  text-align: left;
+}
