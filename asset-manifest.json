@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ORCR/static/css/main.646f4605.css",
+    "main.js": "/ORCR/static/js/main.6ce66b6d.js",
+    "static/js/453.8339c334.chunk.js": "/ORCR/static/js/453.8339c334.chunk.js",
+    "index.html": "/ORCR/index.html",
+    "main.646f4605.css.map": "/ORCR/static/css/main.646f4605.css.map",
+    "main.6ce66b6d.js.map": "/ORCR/static/js/main.6ce66b6d.js.map",
+    "453.8339c334.chunk.js.map": "/ORCR/static/js/453.8339c334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.646f4605.css",
+    "static/js/main.6ce66b6d.js"
+  ]
+}
