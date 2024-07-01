@@ -8,7 +8,7 @@ import { advClgs } from "./iits";
 
 
 export default function Choicefield() {
-  const [rank, setRank] = useState('');
+  const [rank, setRank] = useState('1');
   const [category, setCategory] = useState('');
   const [typeOfInstituteName, setTypeOfInstituteName] = useState("IIT");
   const [exam, setExam] = useState("JEE Advanced");
@@ -55,6 +55,10 @@ export default function Choicefield() {
     setTypeOfInstituteName(event.target.value);
     setClgName("");
   };
+
+  if(rank===""){
+    setRank('1')
+  }
 
 
   // console.log(exam);
