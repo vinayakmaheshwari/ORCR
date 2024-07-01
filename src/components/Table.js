@@ -1,11 +1,57 @@
-import React, { useState } from "react";
-import { data } from "./data_final_(2)";
+import React from "react";
+import { advClgs } from "./iits";
+import { mainsClgs } from "./mainsClgs";
 
 export default function Table(props) {
   var clgName = props.clgName
   var category = props.category
   var pool = props.pool
+  var duration = props.duration
+  var rank = props.rank
+  var exam = props.exam
+  var program = props.program
+
+  let dataTemp = []
+
+  if(exam==="JEE Advanced"){
+    dataTemp = advClgs
+  }
+  else if(exam==="JEE Mains"){
+    dataTemp = mainsClgs
+  }
   
+  if(clgName){
+    dataTemp = dataTemp.filter((datas)=>
+      datas.Institute===clgName + ' '
+    )
+  }
+  if(category){
+    dataTemp = dataTemp.filter((datas)=>
+      datas.Seat_Type===category
+    )
+  }
+  if(pool){
+    dataTemp = dataTemp.filter((datas)=>
+      datas.Gender===pool
+    )
+  }
+  if(duration){
+    dataTemp = dataTemp.filter((datas)=>
+      datas.duration===duration
+    )
+  }
+  if(program){
+    dataTemp = dataTemp.filter((datas)=>
+      datas.Academic_Program_Name===program
+  )
+  }
+  
+  
+  // console.log(dataTemp)
+
+  // console.log(clgName)
+  //           console.log(category)
+  //           console.log(pool)
 
   return (
     <div id="tableContainer">
@@ -42,41 +88,22 @@ export default function Table(props) {
           </tr>
         </thead>
         <tbody>
-          {data.map((datas) => {
-            if (clgName === "ALL") {
-              clgName = datas.Institute;
-            }
-            if (category === "ALL") {
-              category = datas.Seat_Type;
-            }
-            if (pool === "ALL") {
-              pool = datas.Gender;
-            }
-
-            if (
-              datas.Institute === clgName &&
-              datas.Closing_Rank >= parseInt(props.rank) &&
-              datas.Seat_Type === category &&
-              datas.Gender === pool
-            ) {
-              return (
-                <tr>
-                  <td classNameName="lalign">{datas.Institute}</td>
-                  <td>{datas.Academic_Program_Name} </td>
-                  <td>{datas.duration}</td>
-                  <td>{datas.Degree_Type}</td>
-                  <td>{datas.Quota}</td>
-                  <td>{datas.Seat_Type}</td>
-                  <td>{datas.Gender}</td>
-                  <td>{datas.Opening_Rank}</td>
-                  <td>{datas.Closing_Rank}</td>
-                </tr>
-              );
-            }
-            clgName = props.clgName
-            category = props.category
-            pool = props.pool
-          })}
+          {dataTemp.map((datas)=>{
+             return (
+              <tr>
+                <td>{datas.Institute}</td>
+                <td>{datas.Academic_Program_Name}</td>
+                <td>{datas.duration}</td>
+                <td>{datas.Degree_Type}</td>
+                <td>{datas.Quota}</td>
+                <td>{datas.Seat_Type}</td>
+                <td>{datas.Gender}</td>
+                <td>{datas.Opening_Rank}</td>
+                <td>{datas.Closing_Rank}</td>
+              </tr>
+             )
+          }
+          )}
         </tbody>
       </table>
     </div>
