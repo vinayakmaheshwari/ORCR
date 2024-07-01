@@ -89,6 +89,7 @@ export default function Table(props) {
         </thead>
         <tbody>
           {dataTemp.map((datas)=>{
+            if(datas.Closing_Rank>=parseInt(rank)){
              return (
               <tr>
                 <td>{datas.Institute}</td>
@@ -102,7 +103,7 @@ export default function Table(props) {
                 <td>{datas.Closing_Rank}</td>
               </tr>
              )
-          }
+          }}
           )}
         </tbody>
       </table>
