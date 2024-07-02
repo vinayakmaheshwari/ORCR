@@ -4,44 +4,43 @@ import { iits, iiits, nits, GFTI, JAC, BITS } from "./Values";
 import Table from "./Table";
 import { mainsClgs } from "./mainsClgs";
 import { advClgs } from "./iits";
-
-
+import Pagination from "./Pagination";
 
 export default function Choicefield() {
-  const [rank, setRank] = useState('1');
-  const [category, setCategory] = useState('');
+  const [rank, setRank] = useState("");
+  const [category, setCategory] = useState("");
   const [typeOfInstituteName, setTypeOfInstituteName] = useState("IIT");
   const [exam, setExam] = useState("JEE Advanced");
   const [clgName, setClgName] = useState("");
-  const [pool, setPool] = useState('');
-  const [duration, setDuration] = useState('');
-  const [program, setProgram] = useState('')
+  const [pool, setPool] = useState("");
+  const [duration, setDuration] = useState("");
+  const [program, setProgram] = useState("");
 
-  let dataTemp = []
+  let dataTemp = [];
 
-  if(exam==="JEE Advanced"){
-     dataTemp = advClgs
+  if (exam === "JEE Advanced") {
+    dataTemp = advClgs;
+  } else if (exam === "JEE Mains") {
+    dataTemp = mainsClgs;
   }
-  else if(exam==="JEE Mains"){
-     dataTemp = mainsClgs
-  }
 
-  const getUniqueProgram  = (clgName) => {
+  const getUniqueProgram = (clgName) => {
     let val = dataTemp.map((currElem) => {
-      if (currElem.Institute === clgName+' '){
-      return currElem.Academic_Program_Name;
+      if (currElem.Institute === clgName + " ") {
+        return currElem.Academic_Program_Name;
       }
-    })
-    return val = [...new Set(val)];
-  }
+    });
+    return (val = [...new Set(val)]);
+  };
 
-  const uniqueProgram = getUniqueProgram(clgName)
+  const uniqueProgram = getUniqueProgram(clgName);
 
   const categorySelect = (event) => {
     setCategory(event.target.value);
   };
   const handleExamChange = (event) => {
     setExam(event.target.value);
+    setClgName("")
     if (event.target.value === "JEE Advanced") {
       setTypeOfInstituteName("IIT");
     } else if (event.target.value === "JEE Mains") {
@@ -54,12 +53,12 @@ export default function Choicefield() {
   const handleTypeOfInstituteChange = (event) => {
     setTypeOfInstituteName(event.target.value);
     setClgName("");
+    setProgram("");
   };
 
-  if(rank===""){
-    setRank('1')
-  }
-
+  // if(rank===""){
+  //   setRank('1')
+  // }
 
   // console.log(exam);
   // console.log(typeOfInstituteName);
@@ -134,6 +133,7 @@ export default function Choicefield() {
                   id="typeOfInstitute"
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
+                    setProgram("");
                   }}
                 >
                   <option value="">ALL</option>
@@ -149,6 +149,7 @@ export default function Choicefield() {
                   id="typeOfInstitute"
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
+                    setProgram("");
                   }}
                 >
                   <option value="BITS">BITS</option>
@@ -164,6 +165,7 @@ export default function Choicefield() {
                   className="dropdownSelect"
                   onChange={(e) => {
                     setClgName(e.target.value);
+                    setProgram("");
                   }}
                 >
                   <option value="">ALL</option>
@@ -172,35 +174,30 @@ export default function Choicefield() {
                   })}
                 </select>
               )}
-              
+
               {typeOfInstituteName === "" && (
                 <select
-                id="clgName"
-                className="dropdownSelect"
-                onChange={(e) => {
-                  setClgName(e.target.value);
-                }}
-              >
-                <option value="">ALL</option>
-                {nits.map((nit) => {
+                  id="clgName"
+                  className="dropdownSelect"
+                  onChange={(e) => {
+                    setClgName(e.target.value);
+                    setProgram("");
+                  }}
+                >
+                  <option value="">ALL</option>
+                  {nits.map((nit) => {
                     return <option>{nit}</option>;
                   })}
                   {iiits.map((iiit) => {
-                    
                     return <option>{iiit}</option>;
-                    
                   })}
                   {GFTI.map((gfti) => {
-                    
                     return <option>{gfti}</option>;
-                    
-                    })}
+                  })}
                   {JAC.map((jac) => {
-                    
                     return <option value={jac.name}>{jac.shortName}</option>;
-                    
-                  })}</select>
-
+                  })}
+                </select>
               )}
 
               {typeOfInstituteName === "NIT" && (
@@ -209,6 +206,7 @@ export default function Choicefield() {
                   className="dropdownSelect"
                   onChange={(e) => {
                     setClgName(e.target.value);
+                    setProgram("");
                   }}
                 >
                   <option value="">ALL</option>
@@ -224,6 +222,7 @@ export default function Choicefield() {
                   className="dropdownSelect"
                   onChange={(e) => {
                     setClgName(e.target.value);
+                    setProgram("");
                   }}
                 >
                   <option value="">ALL</option>
@@ -239,6 +238,7 @@ export default function Choicefield() {
                   className="dropdownSelect"
                   onChange={(e) => {
                     setClgName(e.target.value);
+                    setProgram("");
                   }}
                 >
                   <option value="">ALL</option>
@@ -254,6 +254,7 @@ export default function Choicefield() {
                   className="dropdownSelect"
                   onChange={(e) => {
                     setClgName(e.target.value);
+                    setProgram("");
                   }}
                 >
                   <option value="">ALL</option>
@@ -273,27 +274,40 @@ export default function Choicefield() {
             </div>
             <div id="programInfo">
               <button className="infoButton">Program</button>
-              <select id="program" className="dropdownSelect" onChange={(e)=>setProgram(e.target.value)}>
+              <select
+                id="program"
+                className="dropdownSelect"
+                onChange={(e) => setProgram(e.target.value)}
+              >
                 <option value="">ALL</option>
-                {uniqueProgram.map((prog)=>{
-                  if(prog){
-                  return <option value={prog}>{prog}</option>
+                {uniqueProgram.map((prog) => {
+                  if (prog) {
+                    return <option value={prog}>{prog}</option>;
                   }
-                })
-                }
+                })}
               </select>
             </div>
             <div id="poolInfo">
               <button className="infoButton">Pool</button>
-              <select id="pool" className="dropdownSelect" onChange={(e)=>setPool(e.target.value)}>
+              <select
+                id="pool"
+                className="dropdownSelect"
+                onChange={(e) => setPool(e.target.value)}
+              >
                 <option value="">ALL</option>
                 <option value="Gender-Neutral">Gender-Neutral</option>
-                <option value="Female-only (including Supernumerary)">Female-Only</option>
+                <option value="Female-only (including Supernumerary)">
+                  Female-Only
+                </option>
               </select>
             </div>
             <div id="durationInfo">
               <button className="infoButton">Duration</button>
-              <select id="duration" className="dropdownSelect" onChange={(e)=>setDuration(e.target.value)}>
+              <select
+                id="duration"
+                className="dropdownSelect"
+                onChange={(e) => setDuration(e.target.value)}
+              >
                 <option value="">ALL</option>
                 <option value="4 Years">4-Year</option>
                 <option value="5 Years">5-Year</option>
@@ -304,6 +318,16 @@ export default function Choicefield() {
       </div>
       <div id="table">
         <Table
+          exam={exam}
+          rank={rank}
+          category={category}
+          typeOfInstituteName={typeOfInstituteName}
+          clgName={clgName}
+          pool={pool}
+          duration={duration}
+          program={program}
+        />
+        <Pagination
           exam={exam}
           rank={rank}
           category={category}
