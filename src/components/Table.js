@@ -1,13 +1,14 @@
 import React from "react";
 import { advClgs } from "./iits";
 import { mainsClgs } from "./mainsClgs";
+import Pagination from "./Pagination";
 
 export default function Table(props) {
   var clgName = props.clgName
   var category = props.category
   var pool = props.pool
   var duration = props.duration
-  var rank = props.rank
+  var rank = parseInt(props.rank)
   var exam = props.exam
   var program = props.program
 
@@ -45,7 +46,14 @@ export default function Table(props) {
       datas.Academic_Program_Name===program
   )
   }
+  if(rank){
+    dataTemp = dataTemp.filter((datas)=>
+      datas.Closing_Rank>=rank
+  )
+  }
+
   
+  // console.log(Math.ceil(dataTemp.length/10))
   
   // console.log(dataTemp)
 
@@ -53,43 +61,45 @@ export default function Table(props) {
   //           console.log(category)
   //           console.log(pool)
 
+
+
   return (
     <div id="tableContainer">
-      <table id="keywords" cellspacing="0" cellpadding="0">
+      <table id="keywords" cellSpacing="0" cellPadding="0">
         <thead>
           <tr>
             <th>
-              <span>Institute</span>
+              Institute
             </th>
             <th>
-              <span>Program</span>
+              Program
             </th>
             <th>
-              <span>Duration</span>
+              Duration
             </th>
             <th>
-              <span>Degree Type</span>
+              Degree Type
             </th>
             <th>
-              <span>Qouta</span>
+              Qouta
             </th>
             <th>
-              <span>Seat Type</span>
+              Seat Type
             </th>
             <th>
-              <span>Gender</span>
+              Gender
             </th>
             <th>
-              <span>Opening Rank</span>
+              Opening Rank
             </th>
             <th>
-              <span>Closing Rank</span>
+              Closing Rank
             </th>
           </tr>
         </thead>
         <tbody>
           {dataTemp.map((datas)=>{
-            if(datas.Closing_Rank>=parseInt(rank)){
+            // if(datas.Closing_Rank>=parseInt(rank)){
              return (
               <tr>
                 <td>{datas.Institute}</td>
@@ -103,7 +113,7 @@ export default function Table(props) {
                 <td>{datas.Closing_Rank}</td>
               </tr>
              )
-          }}
+          }
           )}
         </tbody>
       </table>
