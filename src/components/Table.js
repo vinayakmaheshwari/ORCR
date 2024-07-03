@@ -1,49 +1,9 @@
-import React, { useState } from "react";
-import { advClgs } from "./iits";
-import { mainsClgs } from "./mainsClgs";
-import Pagination from "./Pagination";
-
+import React from "react";
 export default function Table(props) {
-  // var clgName = props.clgName;
-  // var category = props.category;
-  // var pool = props.pool;
-  // var duration = props.duration;
-  // var rank = parseInt(props.rank);
-  // var exam = props.exam;
-  // var program = props.program;
-
-  // let dataTemp = [];
-
-  // if (exam === "JEE Advanced") {
-  //   dataTemp = advClgs;
-  // } else if (exam === "JEE Mains") {
-  //   dataTemp = mainsClgs;
-  // }
-
-  // if (clgName) {
-  //   dataTemp = dataTemp.filter((datas) => datas.Institute === clgName + " ");
-  // }
-  // if (category) {
-  //   dataTemp = dataTemp.filter((datas) => datas.Seat_Type === category);
-  // }
-  // if (pool) {
-  //   dataTemp = dataTemp.filter((datas) => datas.Gender === pool);
-  // }
-  // if (duration) {
-  //   dataTemp = dataTemp.filter((datas) => datas.duration === duration);
-  // }
-  // if (program) {
-  //   dataTemp = dataTemp.filter(
-  //     (datas) => datas.Academic_Program_Name === program
-  //   );
-  // }
-  // if (rank) {
-  //   dataTemp = dataTemp.filter((datas) => datas.Closing_Rank >= rank);
-  // }
   console.log(props.data);
   return (
     <div id="tableContainer">
-      {props.data.length >0 && (
+      {props.data.length > 0 && (
         <table id="keywords" cellSpacing="0" cellPadding="0">
           <thead>
             <tr>
@@ -77,9 +37,7 @@ export default function Table(props) {
           </tbody>
         </table>
       )}
-      {props.data.length===0 &&
-       <h1>Nothing Found</h1>
-      }
+      {props.data.length === 0 && <h1>Nothing Found</h1>}
     </div>
   );
 }
