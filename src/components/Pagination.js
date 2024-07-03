@@ -31,8 +31,10 @@ export default function Pagination(props) {
       dataTemp = IIIT;
     } else if (typeOfInstituteName === "GFTI") {
       dataTemp = GFTI;
-    } else if (typeOfInstituteName === "JAC") {
-      dataTemp = JACClgs;
+    }
+    else if (typeOfInstituteName === "JAC") {
+      dataTemp = JACClgs
+    }
   } else if (exam === "BITSAT") {
     dataTemp = BITSClg;
   }
@@ -62,24 +64,34 @@ export default function Pagination(props) {
       dataTemp = dataTemp.filter((datas) => datas.Closing_Rank <= rank);
     }
   }
+
+  
+
+
   const pages = Math.ceil(dataTemp.length / 10);
   const [currPage, setCurrPage] = useState("1");
   const rowsPerPage = 10;
   const lastRowIndex = rowsPerPage * currPage;
   const firstRowIndex = lastRowIndex - rowsPerPage;
 
-  const pageData = dataTemp.slice(firstRowIndex, lastRowIndex);
+  let pageData = dataTemp.slice(firstRowIndex, lastRowIndex);
   let pageNumber = [];
+  
+  function sorting(){
+    console.log("clicked")
+    pageData = pageData.sort((a,b)=>a.Closing_Rank-b.Closing_Rank)
+    console.log(pageData)
+  }
 
   for (let i = 1; i <= pages; i++) {
     pageNumber.push(i);
   }
   return (
     <div id="pagination">
-      <Table data={pageData} exam={exam} />
+      <Table data={pageData} exam={exam} sorting={sorting}/>
       <div id="paginationButtons">
         {currPage !== 1 && (
-          <button className="pageButton" onClick={() => setCurrPage(1)}>
+          <button className="pageButton" onClick={() => setCurrPage(pageNumber[0])}>
             FirstPage
           </button>
         )}
