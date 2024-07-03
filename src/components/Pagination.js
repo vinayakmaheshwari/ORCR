@@ -6,6 +6,7 @@ import { GFTI } from "./GFTI";
 import Table from "./Table";
 import { MainsClgAll } from "./MainsClgAll";
 import { BITSClg } from "./BITS";
+import { JACClgs } from "./JAC";
 
 export default function Pagination(props) {
   var clgName = props.clgName;
