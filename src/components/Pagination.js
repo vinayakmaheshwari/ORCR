@@ -5,6 +5,7 @@ import { IIIT } from "./IIIT";
 import { GFTI } from "./GFTI";
 import Table from "./Table";
 import { MainsClgAll } from "./MainsClgAll";
+import { BITSClg } from "./BITS";
 
 export default function Pagination(props) {
   var clgName = props.clgName;
@@ -30,6 +31,8 @@ export default function Pagination(props) {
     } else if (typeOfInstituteName === "GFTI") {
       dataTemp = GFTI;
     }
+  } else if (exam === "BITSAT") {
+    dataTemp = BITSClg;
   }
 
   if (clgName) {
@@ -50,7 +53,12 @@ export default function Pagination(props) {
     );
   }
   if (rank) {
-    dataTemp = dataTemp.filter((datas) => datas.Closing_Rank >= rank);
+    if (exam !== "BITSAT") {
+      dataTemp = dataTemp.filter((datas) => datas.Closing_Rank >= rank);
+    }
+    else if (exam==="BITSAT") {
+      dataTemp = dataTemp.filter((datas) => datas.Closing_Rank <= rank);
+    }
   }
   const pages = Math.ceil(dataTemp.length / 10);
   const [currPage, setCurrPage] = useState("1");
@@ -66,9 +74,8 @@ export default function Pagination(props) {
   }
   return (
     <div id="pagination">
-      <Table data={pageData} />
+      <Table data={pageData} exam={exam} />
       <div id="paginationButtons">
-        
         {currPage !== 1 && (
           <button className="pageButton" onClick={() => setCurrPage(1)}>
             FirstPage
