@@ -1,5 +1,4 @@
 export const iits = [
-  {shortName:'All'},
   {name:'Indian Institute  of Technology Bhubaneswar' , shortName: 'IIT-Bhubaneswar'},
   {name:'Indian Institute  of Technology Bombay' , shortName : 'IIT-Bombay'},
   {name:'Indian Institute  of Technology Mandi' , shortName : 'IIT-Mandi'},
@@ -27,7 +26,6 @@ export const iits = [
 ]
 
 export const nits = [
-    'All',
     'Dr. B R Ambedkar National Institute of Technology Jalandhar',
     'Malaviya National Institute of Technology Jaipur',
     'Maulana Azad National Institute of Technology Bhopal',
@@ -63,7 +61,6 @@ export const nits = [
 
 
 export const iiits = [
-  'ALL',
   'Atal Bihari Vajpayee Indian Institute of Information Technology  Management Gwalior',
   'Indian Institute of Information Technology (IIIT)Kota Rajasthan',
   'Indian Institute of Information Technology Guwahati',
@@ -95,8 +92,7 @@ export const iiits = [
 ]  
 
 
-export const GFTI = [
-  'ALL',
+export const gftis = [
   'Indian Institute of Engineering Science and Technology Shibpur',
   'Assam University Silchar',
   'Birla Institute of Technology Mesra  Ranchi',
@@ -141,7 +137,6 @@ export const GFTI = [
   
 
 export const JAC = [
-  {shortName:'ALL'},
   {name:'Delhi Technological University', shortName:'DTU'},
   {name:'Netaji Subash University of Technology', shortName:'NSUT'},
   {name:'Indraprasth Institute of Technology Delhi', shortName:'IIIT-Delhi'},
@@ -151,7 +146,6 @@ export const JAC = [
 ]
 
 export const BITS = [
-  'ALL',
   'BITS-Pilani',
   'BITS-Goa',
   'BITS-Hyderabad'
