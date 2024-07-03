@@ -43,10 +43,7 @@ export default function Choicefield() {
   } else if (exam==="BITSAT"){
     dataTemp = BITSClg
   }
-
-  console.log(dataTemp)
-  console.log(clgName)
-
+  
   const getUniqueProgram = (clgName) => {
     let val = dataTemp.map((currElem) => {
       if (currElem.Institute === clgName + " ") {
