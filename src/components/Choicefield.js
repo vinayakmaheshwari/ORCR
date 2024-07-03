@@ -6,6 +6,7 @@ import { GFTI } from "./GFTI";
 import { advClgs } from "./iits";
 import Pagination from "./Pagination";
 import { MainsClgAll } from "./MainsClgAll";
+import { BITSClg } from "./BITS";
 
 export default function Choicefield() {
   const [rank, setRank] = useState("");
@@ -18,6 +19,14 @@ export default function Choicefield() {
   const [program, setProgram] = useState("");
 
   let dataTemp = [];
+  let RankorMarks;
+
+  if(exam==="BITSAT"){
+     RankorMarks = "Marks"
+  }
+  else if(exam!=="BITSAT"){
+     RankorMarks = "Rank"
+  }
 
   if (exam === "JEE Advanced") {
     dataTemp = advClgs;
@@ -31,7 +40,12 @@ export default function Choicefield() {
     } else if (typeOfInstituteName === "GFTI") {
       dataTemp = GFTI;
     }
+  } else if (exam==="BITSAT"){
+    dataTemp = BITSClg
   }
+
+  console.log(dataTemp)
+  console.log(clgName)
 
   const getUniqueProgram = (clgName) => {
     let val = dataTemp.map((currElem) => {
@@ -50,6 +64,7 @@ export default function Choicefield() {
   const handleExamChange = (event) => {
     setExam(event.target.value);
     setClgName("");
+    setProgram("");
     if (event.target.value === "JEE Advanced") {
       setTypeOfInstituteName("IIT");
     } else if (event.target.value === "JEE Mains") {
@@ -85,7 +100,7 @@ export default function Choicefield() {
               </select>
             </div>
             <div id="rankInfo">
-              <button className="infoButton">Rank</button>
+              <button className="infoButton">{RankorMarks}</button>
               <br />
               <input
                 id="rank"
@@ -266,7 +281,7 @@ export default function Choicefield() {
                 </select>
               )}
               {typeOfInstituteName === "BITS" && (
-                <select id="clgName" className="dropdownSelect">
+                <select id="clgName" className="dropdownSelect" onChange={(e)=>setClgName(e.target.value)}>
                   <option value="">ALL</option>
                   {BITS.map((bits) => {
                     return <option value={bits}>{bits}</option>;
