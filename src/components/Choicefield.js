@@ -39,7 +39,8 @@ export default function Choicefield() {
       dataTemp = IIIT;
     } else if (typeOfInstituteName === "GFTI") {
       dataTemp = GFTI;
-    }
+    } else if (typeOfInstituteName === "JAC") {
+      dataTemp = JACClgs;
   } else if (exam==="BITSAT"){
     dataTemp = BITSClg
   }
