@@ -133,6 +133,7 @@ export default function Choicefield() {
                   id="typeOfInstitute"
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
+                    setClgName("")
                     setProgram("");
                   }}
                 >
@@ -149,6 +150,7 @@ export default function Choicefield() {
                   id="typeOfInstitute"
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
+                    setClgName("")
                     setProgram("");
                   }}
                 >
@@ -317,7 +319,7 @@ export default function Choicefield() {
         </div>
       </div>
       <div id="table">
-        <Table
+        {/* <Table
           exam={exam}
           rank={rank}
           category={category}
@@ -326,7 +328,7 @@ export default function Choicefield() {
           pool={pool}
           duration={duration}
           program={program}
-        />
+        /> */}
         <Pagination
           exam={exam}
           rank={rank}
