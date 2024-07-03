@@ -3,6 +3,7 @@ import Choicefield from "./components/Choicefield";
 import Footer from "./components/Footer";
 import Pagination from "./components/Pagination";
 import Table from "./components/Table";
+import { Analytics } from "@vercel/analytics/react"
 // import Typeofinstitute from "./components/Typeofinstitute";
 
 function App() {
