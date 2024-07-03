@@ -325,7 +325,8 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   background-color: rgba(255, 255, 255, 0.70);
-  width: 100px;
+  width: 120px;
   height: 30px;
   font-size: 20px;
+  border: 1px solid rgb(1, 86, 50);
 }
