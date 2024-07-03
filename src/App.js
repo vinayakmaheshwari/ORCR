@@ -1,6 +1,7 @@
 import "./App.css";
 import Choicefield from "./components/Choicefield";
 import Footer from "./components/Footer";
+import Pagination from "./components/Pagination";
 import Table from "./components/Table";
 // import Typeofinstitute from "./components/Typeofinstitute";
 
