@@ -7,6 +7,7 @@ import { advClgs } from "./iits";
 import Pagination from "./Pagination";
 import { MainsClgAll } from "./MainsClgAll";
 import { BITSClg } from "./BITS";
+import { JACClgs } from "./JAC";
 
 export default function Choicefield() {
   const [rank, setRank] = useState("");
