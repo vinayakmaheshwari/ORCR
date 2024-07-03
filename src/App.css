@@ -145,6 +145,8 @@ body{
 }
 
 #tableContainer{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
   max-width: fit-content;
   margin-left: auto;
   margin-right: auto;
@@ -190,6 +192,7 @@ body{
 } */
 
 #keywords thead tr th { 
+  cursor: pointer;
   border-left: 1px solid #555;
   border-right: 1px solid #777;
   border-top: 1px solid #555;
@@ -280,4 +283,49 @@ body{
 #madeBy a{
   margin-left: 4px;
   color: rgb(183, 183, 255);
+}
+
+#pagination{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#pagination{
+  display: block;
+  margin-bottom: 50px;
+}
+
+#paginationButtons{
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.pageButton{
+  color: white;
+  width: 100px;
+  height: 30px;
+  background-color:rgb(1, 86, 50);
+  border: 1px solid rgba(225, 225, 225, 0.70) ;
+  font-size: 20px;
+  margin: 5px;
+  text-align: center;
+}
+
+#pagination h2{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#currPage{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.70);
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
 }
