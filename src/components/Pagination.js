@@ -1,7 +1,10 @@
 import React, { useState } from "react";
 import { advClgs } from "./iits";
-import { mainsClgs } from "./mainsClgs";
+import { NIT } from "./NIT";
+import { IIIT } from "./IIIT";
+import { GFTI } from "./GFTI";
 import Table from "./Table";
+import { MainsClgAll } from "./MainsClgAll";
 
 export default function Pagination(props) {
   var clgName = props.clgName;
@@ -11,13 +14,22 @@ export default function Pagination(props) {
   var rank = parseInt(props.rank);
   var exam = props.exam;
   var program = props.program;
+  var typeOfInstituteName = props.typeOfInstituteName;
 
   let dataTemp = [];
 
   if (exam === "JEE Advanced") {
     dataTemp = advClgs;
   } else if (exam === "JEE Mains") {
-    dataTemp = mainsClgs;
+    if (typeOfInstituteName === "") {
+      dataTemp = MainsClgAll;
+    } else if (typeOfInstituteName === "NIT") {
+      dataTemp = NIT;
+    } else if (typeOfInstituteName === "IIIT") {
+      dataTemp = IIIT;
+    } else if (typeOfInstituteName === "GFTI") {
+      dataTemp = GFTI;
+    }
   }
 
   if (clgName) {
@@ -47,20 +59,49 @@ export default function Pagination(props) {
   const firstRowIndex = lastRowIndex - rowsPerPage;
 
   const pageData = dataTemp.slice(firstRowIndex, lastRowIndex);
-  let pageNumber = []
+  let pageNumber = [];
 
-
-  for (let i = 1; i<=pages ; i++){
-    pageNumber.push(i)
+  for (let i = 1; i <= pages; i++) {
+    pageNumber.push(i);
   }
-  return <div id="pagination">
-    <Table data={pageData}/>
-    <div id="paginationButtons">
-    {currPage!=1 && <button className="pageButton" onClick={()=>setCurrPage(1)}>FirstPage</button>}
-      {currPage!=1 && <button className="pageButton" onClick={()=>setCurrPage(currPage-1)}>Previous</button>}
-      <button id="currPage">{currPage} of {pages}</button>
-      {currPage!=pageNumber.length  && <button className="pageButton" onClick={()=>setCurrPage(parseInt(currPage)+1)}>Next</button> }
-      {currPage!=pageNumber.length  && <button className="pageButton" onClick={()=>setCurrPage(pageNumber.length)}>LastPage</button> }
+  return (
+    <div id="pagination">
+      <Table data={pageData} />
+      <div id="paginationButtons">
+        
+        {currPage !== 1 && (
+          <button className="pageButton" onClick={() => setCurrPage(1)}>
+            FirstPage
+          </button>
+        )}
+        {currPage !== 1 && (
+          <button
+            className="pageButton"
+            onClick={() => setCurrPage(currPage - 1)}
+          >
+            Previous
+          </button>
+        )}
+        <button id="currPage">
+          {currPage} of {pages}
+        </button>
+        {currPage !== pageNumber.length && (
+          <button
+            className="pageButton"
+            onClick={() => setCurrPage(parseInt(currPage) + 1)}
+          >
+            Next
+          </button>
+        )}
+        {currPage !== pageNumber.length && (
+          <button
+            className="pageButton"
+            onClick={() => setCurrPage(pageNumber.length)}
+          >
+            LastPage
+          </button>
+        )}
+      </div>
     </div>
-  </div>;
+  );
 }
