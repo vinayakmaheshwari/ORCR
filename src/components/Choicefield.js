@@ -1,10 +1,11 @@
 import React, { useState } from "react";
-// import Typeofinstitute from './Typeofinstitute';
-import { iits, iiits, nits, GFTI, JAC, BITS } from "./Values";
-import Table from "./Table";
-import { mainsClgs } from "./mainsClgs";
+import { iits, iiits, nits, JAC, BITS, gftis } from "./Values";
+import { NIT } from "./NIT";
+import { IIIT } from "./IIIT";
+import { GFTI } from "./GFTI";
 import { advClgs } from "./iits";
 import Pagination from "./Pagination";
+import { MainsClgAll } from "./MainsClgAll";
 
 export default function Choicefield() {
   const [rank, setRank] = useState("");
@@ -21,7 +22,15 @@ export default function Choicefield() {
   if (exam === "JEE Advanced") {
     dataTemp = advClgs;
   } else if (exam === "JEE Mains") {
-    dataTemp = mainsClgs;
+    if (typeOfInstituteName === "") {
+      dataTemp = MainsClgAll;
+    } else if (typeOfInstituteName === "NIT") {
+      dataTemp = NIT;
+    } else if (typeOfInstituteName === "IIIT") {
+      dataTemp = IIIT;
+    } else if (typeOfInstituteName === "GFTI") {
+      dataTemp = GFTI;
+    }
   }
 
   const getUniqueProgram = (clgName) => {
@@ -40,7 +49,7 @@ export default function Choicefield() {
   };
   const handleExamChange = (event) => {
     setExam(event.target.value);
-    setClgName("")
+    setClgName("");
     if (event.target.value === "JEE Advanced") {
       setTypeOfInstituteName("IIT");
     } else if (event.target.value === "JEE Mains") {
@@ -55,15 +64,6 @@ export default function Choicefield() {
     setClgName("");
     setProgram("");
   };
-
-  // if(rank===""){
-  //   setRank('1')
-  // }
-
-  // console.log(exam);
-  // console.log(typeOfInstituteName);
-  // console.log(clgName);
-  // console.log(rank);
 
   return (
     <>
@@ -133,7 +133,7 @@ export default function Choicefield() {
                   id="typeOfInstitute"
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
-                    setClgName("")
+                    setClgName("");
                     setProgram("");
                   }}
                 >
@@ -150,7 +150,7 @@ export default function Choicefield() {
                   id="typeOfInstitute"
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
-                    setClgName("")
+                    setClgName("");
                     setProgram("");
                   }}
                 >
@@ -193,7 +193,7 @@ export default function Choicefield() {
                   {iiits.map((iiit) => {
                     return <option>{iiit}</option>;
                   })}
-                  {GFTI.map((gfti) => {
+                  {gftis.map((gfti) => {
                     return <option>{gfti}</option>;
                   })}
                   {JAC.map((jac) => {
@@ -244,7 +244,7 @@ export default function Choicefield() {
                   }}
                 >
                   <option value="">ALL</option>
-                  {GFTI.map((gfti) => {
+                  {gftis.map((gfti) => {
                     return <option>{gfti}</option>;
                   })}
                 </select>
@@ -319,16 +319,6 @@ export default function Choicefield() {
         </div>
       </div>
       <div id="table">
-        {/* <Table
-          exam={exam}
-          rank={rank}
-          category={category}
-          typeOfInstituteName={typeOfInstituteName}
-          clgName={clgName}
-          pool={pool}
-          duration={duration}
-          program={program}
-        /> */}
         <Pagination
           exam={exam}
           rank={rank}
