@@ -47,15 +47,13 @@ export default function Choicefield() {
     dataTemp = BITSClg;
   }
 
-  const getUniqueProgram = (clgName) => {
+  const getUniqueProgram = () => {
     let val = dataTemp.map((currElem) => {
-      if (currElem.Institute === clgName + " ") {
-        return currElem.Academic_Program_Name;
-      }
+      return currElem.Academic_Program_Name;
     });
     return (val = [...new Set(val)]);
   };
-  const uniqueProgram = getUniqueProgram(clgName);
+  const uniqueProgram = getUniqueProgram();
 
   const getUniqueQuota = () => {
     let val = dataTemp.map((currElem) => {
@@ -65,11 +63,26 @@ export default function Choicefield() {
   };
   const uniqueQuota = getUniqueQuota();
 
-  const categorySelect = (event) => {
-    setCategory(event.target.value);
+  const getUniqueCategory = () => {
+    let val = dataTemp.map((currElem) => {
+      return currElem.Seat_Type;
+    });
+    return (val = [...new Set(val)]);
   };
+  const uniqueCategory = getUniqueCategory();
+
+  const getUniqueGender = () => {
+    let val = dataTemp.map((currElem) => {
+      return currElem.Gender;
+    });
+    return (val = [...new Set(val)]);
+  };
+  const uniqueGender = getUniqueGender();
+
   const handleExamChange = (event) => {
     setExam(event.target.value);
+    setCategory("");
+    setPool("");
     setClgName("");
     setProgram("");
     setQuota("");
@@ -85,8 +98,10 @@ export default function Choicefield() {
   const handleTypeOfInstituteChange = (event) => {
     setTypeOfInstituteName(event.target.value);
     setClgName("");
+    setCategory("");
     setProgram("");
     setQuota("");
+    setPool("");
   };
 
   return (
@@ -124,17 +139,14 @@ export default function Choicefield() {
               <select
                 className="dropdownSelect"
                 id="category"
-                onChange={categorySelect}
+                onChange={(e) => {
+                  setCategory(e.target.value);
+                }}
               >
                 <option value="">ALL</option>
-                <option value="OPEN">General</option>
-                <option value="OBC-NCL">OBC</option>
-                <option className="genews" value="EWS">
-                  GEN-EWS
-                </option>
-                <option value="SC">SC</option>
-                <option value="ST">ST</option>
-                <option value="OPEN (PwD)">PWD</option>
+                {uniqueCategory.map((val) => {
+                  return <option value={val}>{val}</option>;
+                })}
               </select>
             </div>
             <div id="quotaInfo">
@@ -340,10 +352,9 @@ export default function Choicefield() {
                 onChange={(e) => setPool(e.target.value)}
               >
                 <option value="">ALL</option>
-                <option value="Gender-Neutral">Gender-Neutral</option>
-                <option value="Female-only (including Supernumerary)">
-                  Female-Only
-                </option>
+                {uniqueGender.map((val) => {
+                  return <option value={val}>{val}</option>;
+                })}
               </select>
             </div>
             <div id="durationInfo">
