@@ -7,6 +7,7 @@ import { advClgs } from "./iits";
 import Pagination from "./Pagination";
 import { MainsClgAll } from "./MainsClgAll";
 import { BITSClg } from "./BITS";
+import { JACClgs } from "./JAC";
 
 export default function Choicefield() {
   const [rank, setRank] = useState("");
@@ -21,11 +22,10 @@ export default function Choicefield() {
   let dataTemp = [];
   let RankorMarks;
 
-  if(exam==="BITSAT"){
-     RankorMarks = "Marks"
-  }
-  else if(exam!=="BITSAT"){
-     RankorMarks = "Rank"
+  if (exam === "BITSAT") {
+    RankorMarks = "Marks";
+  } else if (exam !== "BITSAT") {
+    RankorMarks = "Rank";
   }
 
   if (exam === "JEE Advanced") {
@@ -39,11 +39,13 @@ export default function Choicefield() {
       dataTemp = IIIT;
     } else if (typeOfInstituteName === "GFTI") {
       dataTemp = GFTI;
+    } else if (typeOfInstituteName === "JAC") {
+      dataTemp = JACClgs;
     }
-  } else if (exam==="BITSAT"){
-    dataTemp = BITSClg
+  } else if (exam === "BITSAT") {
+    dataTemp = BITSClg;
   }
-  
+
   const getUniqueProgram = (clgName) => {
     let val = dataTemp.map((currElem) => {
       if (currElem.Institute === clgName + " ") {
@@ -278,7 +280,11 @@ export default function Choicefield() {
                 </select>
               )}
               {typeOfInstituteName === "BITS" && (
-                <select id="clgName" className="dropdownSelect" onChange={(e)=>setClgName(e.target.value)}>
+                <select
+                  id="clgName"
+                  className="dropdownSelect"
+                  onChange={(e) => setClgName(e.target.value)}
+                >
                   <option value="">ALL</option>
                   {BITS.map((bits) => {
                     return <option value={bits}>{bits}</option>;

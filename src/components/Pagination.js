@@ -6,6 +6,7 @@ import { GFTI } from "./GFTI";
 import Table from "./Table";
 import { MainsClgAll } from "./MainsClgAll";
 import { BITSClg } from "./BITS";
+import { JACClgs } from "./JAC";
 
 export default function Pagination(props) {
   const { clgName, category, pool, duration, rank, exam, program, typeOfInstituteName } = props;
@@ -74,6 +75,7 @@ export default function Pagination(props) {
         }
       });
     }
+
     return dataTemp;
   }, [clgName, category, pool, duration, rank, exam, program, typeOfInstituteName, sortConfig]);
 
@@ -82,6 +84,7 @@ export default function Pagination(props) {
   const lastRowIndex = rowsPerPage * currPage;
   const firstRowIndex = lastRowIndex - rowsPerPage;
   const pageData = filteredAndSortedData.slice(firstRowIndex, lastRowIndex);
+
 
   const handleSort = (key) => {
     setSortConfig((prevConfig) => ({
@@ -93,11 +96,13 @@ export default function Pagination(props) {
 
   return (
     <div id="pagination">
+
       <Table data={pageData} exam={exam} onSort={handleSort} sortConfig={sortConfig} />
       <div id="paginationButtons">
         {currPage !== 1 && (
           <button className="pageButton" onClick={() => setCurrPage(1)}>
             First Page
+
           </button>
         )}
         {currPage !== 1 && (
