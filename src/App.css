@@ -107,6 +107,9 @@ body{
   color: white;
   border-radius: 10px;
   border: none;
+  margin-bottom: 3%;
+  /* white-space: nowrap; */
+  overflow: hidden;
 }
 
 .dropdownSelect{
@@ -314,6 +317,7 @@ body{
   font-size: 20px;
   margin: 5px;
   text-align: center;
+  border-radius: 10px;
 }
 
 #pagination h2{
@@ -329,4 +333,5 @@ body{
   height: 30px;
   font-size: 20px;
   border: 1px solid rgb(1, 86, 50);
+  border-radius: 10px;
 }
