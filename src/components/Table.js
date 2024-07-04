@@ -5,11 +5,10 @@ export default function Table(props) {
 
   const renderSortIcon = (key) => {
     if (sortConfig.key === key) {
-      return sortConfig.direction === 'ascending' ? ' ▲' : ' ▼';
+      return sortConfig.direction === "ascending" ? " ▲" : " ▼";
     }
-    return '';
+    return "";
   };
-  console.log(data);
   return (
     <div id="tableContainer">
       {exam === "BITSAT" ? (
@@ -23,8 +22,8 @@ export default function Table(props) {
               <th>Quota</th>
               <th>Seat Type</th>
               <th>Gender</th>
-              <th onClick={() => onSort('Closing_Rank')}>
-                Cutoff Marks{renderSortIcon('Closing_Rank')}
+              <th onClick={() => onSort("Closing_Rank")}>
+                Cutoff Marks{renderSortIcon("Closing_Rank")}
               </th>
             </tr>
           </thead>
@@ -54,11 +53,11 @@ export default function Table(props) {
               <th>Quota</th>
               <th>Seat Type</th>
               <th>Gender</th>
-              <th onClick={() => onSort('Opening_Rank')}>
-                Opening Rank{renderSortIcon('Opening_Rank')}
+              <th onClick={() => onSort("Opening_Rank")}>
+                Opening Rank{renderSortIcon("Opening_Rank")}
               </th>
-              <th onClick={() => onSort('Closing_Rank')}>
-                Closing Rank{renderSortIcon('Closing_Rank')}
+              <th onClick={() => onSort("Closing_Rank")}>
+                Closing Rank{renderSortIcon("Closing_Rank")}
               </th>
             </tr>
           </thead>

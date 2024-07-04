@@ -1,13 +1,13 @@
-body{
+body {
   background-color: rgb(30, 30, 30);
   width: 100%;
   overflow-x: hidden;
   overflow-y: inherit;
 }
 
-#header{
+#header {
   background-color: rgb(1, 86, 51);
-  border-bottom: 1px solid rgba(225, 225, 225, 0.70);
+  border-bottom: 1px solid rgba(225, 225, 225, 0.7);
   color: white;
   align-content: center;
   display: flex;
@@ -19,15 +19,13 @@ body{
   top: 0;
 }
 
-
-
-#table{
+#table {
   margin-top: auto;
   width: 100%;
   margin-bottom: 50px;
 }
 
-#filters{
+#filters {
   background-color: rgb(25, 26, 26);
   height: 250px;
   width: 100%;
@@ -36,39 +34,38 @@ body{
   display: block;
 }
 
-#filter-heading{
+#filter-heading {
   margin-left: 10px;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#choices{
+#choices {
   display: block;
   margin-left: 10px;
   width: 100%;
   height: 100%;
-  
 }
 
-#clgInfo{
+#clgInfo {
   display: flex;
   padding: 10px;
 }
 
-#examinationInfo{
+#examinationInfo {
   margin-right: 70px;
 }
 
-#rankInfo{
+#rankInfo {
   margin-right: 80px;
 }
 
-#programInfo{
+#programInfo {
   margin-left: 50px;
   max-width: 300px;
-} 
+}
 
-#clgNameInfo{
+#clgNameInfo {
   margin-left: 50px;
   max-width: 300px;
 }
@@ -78,23 +75,26 @@ body{
   margin-left: 50px;
 } */
 
-#poolInfo{
+#poolInfo {
   margin-left: 50px;
   max-width: 300px;
 }
 
-#durationInfo{
+#durationInfo {
   margin-left: 50px;
 }
 
-#personalInfo{
+#personalInfo {
   display: flex;
   padding: 10px;
-  
 }
 
+#quotaInfo {
+  margin-left: 70px;
+  max-width: 300px;
+}
 
-.infoButton{
+.infoButton {
   background-color: rgba(0, 95, 56, 0.687);
   width: 100%;
   /* max-width: 300px; */
@@ -107,12 +107,12 @@ body{
   color: white;
   border-radius: 10px;
   border: none;
-  margin-bottom: 3%;
+
   /* white-space: nowrap; */
   overflow: hidden;
 }
 
-.dropdownSelect{
+.dropdownSelect {
   width: 100%;
   color: black;
   /* max-width: 300px; */
@@ -121,21 +121,21 @@ body{
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
-  background-color: rgba(255, 255, 255, 0.70);
+  background-color: rgba(255, 255, 255, 0.7);
   border: none;
   border-radius: 10px;
 }
 
-.dropdown-content{
+.dropdown-content {
   max-width: 200px;
   background-color: black;
 }
 
-#rank{
+#rank {
   width: 85px;
   height: 30px;
   text-align: center;
-  background-color: rgba(225, 225, 225, 0.70);
+  background-color: rgba(225, 225, 225, 0.7);
   border: none;
   border-radius: 10px;
   font-size: 20px;
@@ -143,11 +143,11 @@ body{
   font-weight: bold;
 }
 
-#table{
+#table {
   width: 100%;
 }
 
-#tableContainer{
+#tableContainer {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   max-width: fit-content;
@@ -176,17 +176,13 @@ body{
   margin: 1%; */
 }
 
-
 #keywords thead {
   cursor: pointer;
   /* background:rgba(0, 95, 56, 0.687); */
   border: 1px white solid;
   border-radius: 10px;
   cursor: auto;
-   
 }
-
-
 
 /* #keywords thead tr{
   display: flex;
@@ -194,7 +190,7 @@ body{
   justify-content: center;
 } */
 
-#keywords thead tr th { 
+#keywords thead tr th {
   cursor: pointer;
   border-left: 1px solid #555;
   border-right: 1px solid #777;
@@ -215,7 +211,6 @@ body{
   /* border: 1px rgba(255, 255, 255, 0.406) solid;
   border-radius: 10px;
   background-color: rgba(0, 95, 56, 0.687);  */
-
 }
 /* #keywords thead tr th span { 
   padding-right: 20px;
@@ -223,8 +218,6 @@ body{
   background-position: 100% 100%;
   width: 100%;
 } */
-
-
 
 /* #keywords tbody tr{
   display: flex;
@@ -248,22 +241,21 @@ body{
   padding-top: 0px;
   padding-bottom: 0px;
   font-size: 20px; */
- 
+
   /* /* text-align: center;
   width: 100%;
   /* padding: 15px 10px; */
   /* border: 1px rgba(255, 255, 255, 0.406) solid;
   border-radius: 10px;
   max-height: 30px;  */
-} 
+}
 
-
-#footer{
+#footer {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   height: 40px;
-  border-top: 1px solid rgba(225, 225, 225, 0.70);
+  border-top: 1px solid rgba(225, 225, 225, 0.7);
   background-color: rgb(1, 86, 50);
   position: fixed;
   width: 100%;
@@ -273,7 +265,7 @@ body{
   justify-content: space-between;
 }
 
-#githubRepo{
+#githubRepo {
   color: rgb(183, 183, 255);
 }
 
@@ -283,24 +275,23 @@ body{
   margin-right: 20px;
 }
 
-#madeBy a{
+#madeBy a {
   margin-left: 4px;
   color: rgb(183, 183, 255);
 }
 
-#pagination{
+#pagination {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-
-#pagination{
+#pagination {
   display: block;
   margin-bottom: 50px;
 }
 
-#paginationButtons{
+#paginationButtons {
   margin-bottom: 50px;
   display: flex;
   justify-content: center;
@@ -308,27 +299,27 @@ body{
   margin: 20px;
 }
 
-.pageButton{
+.pageButton {
   color: white;
   width: 100px;
   height: 30px;
-  background-color:rgb(1, 86, 50);
-  border: 1px solid rgba(225, 225, 225, 0.70) ;
+  background-color: rgb(1, 86, 50);
+  border: 1px solid rgba(225, 225, 225, 0.7);
   font-size: 20px;
   margin: 5px;
   text-align: center;
   border-radius: 10px;
 }
 
-#pagination h2{
+#pagination h2 {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#currPage{
+#currPage {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
-  background-color: rgba(255, 255, 255, 0.70);
+  background-color: rgba(255, 255, 255, 0.7);
   width: 120px;
   height: 30px;
   font-size: 20px;

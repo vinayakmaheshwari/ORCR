@@ -9,10 +9,22 @@ import { BITSClg } from "./BITS";
 import { JACClgs } from "./JAC";
 
 export default function Pagination(props) {
-  const { clgName, category, pool, duration, rank, exam, program, typeOfInstituteName } = props;
+  const {
+    clgName,
+    category,
+    pool,
+    duration,
+    rank,
+    exam,
+    program,
+    typeOfInstituteName,
+    quota,
+  } = props;
   const [currPage, setCurrPage] = useState(1);
-  const [sortConfig, setSortConfig] = useState({ key: null, direction: 'ascending' });
-
+  const [sortConfig, setSortConfig] = useState({
+    key: null,
+    direction: "ascending",
+  });
   const filteredAndSortedData = useMemo(() => {
     let dataTemp = [];
     if (exam === "JEE Advanced") {
@@ -27,19 +39,28 @@ export default function Pagination(props) {
       } else if (typeOfInstituteName === "GFTI") {
         dataTemp = GFTI;
       } else if (typeOfInstituteName === "JAC") {
-        dataTemp = JACClgs
+        dataTemp = JACClgs;
       }
     } else if (exam === "BITSAT") {
       dataTemp = BITSClg;
     }
 
-    if (clgName) dataTemp = dataTemp.filter((datas) => datas.Institute.trim() === clgName.trim());
-    if (category) dataTemp = dataTemp.filter((datas) => datas.Seat_Type === category);
+    if (clgName)
+      dataTemp = dataTemp.filter(
+        (datas) => datas.Institute.trim() === clgName.trim()
+      );
+    if (category)
+      dataTemp = dataTemp.filter((datas) => datas.Seat_Type === category);
     if (pool) dataTemp = dataTemp.filter((datas) => datas.Gender === pool);
-    if (duration) dataTemp = dataTemp.filter((datas) => datas.duration === duration);
-    if (program) dataTemp = dataTemp.filter((datas) => datas.Academic_Program_Name === program);
-    
-    // filtering logic based on sorting 
+    if (duration)
+      dataTemp = dataTemp.filter((datas) => datas.duration === duration);
+    if (program)
+      dataTemp = dataTemp.filter(
+        (datas) => datas.Academic_Program_Name === program
+      );
+    if (quota) dataTemp = dataTemp.filter((datas) => datas.Quota === quota);
+
+    // filtering logic based on sorting
     if (exam === "BITSAT" && rank) {
       const inputMarks = parseInt(rank);
       if (!isNaN(inputMarks)) {
@@ -58,10 +79,13 @@ export default function Pagination(props) {
       }
     }
 
-    // sorting logic 
+    // sorting logic
     if (sortConfig.key) {
       dataTemp.sort((a, b) => {
-        if (a[sortConfig.key] === undefined || b[sortConfig.key] === undefined) {
+        if (
+          a[sortConfig.key] === undefined ||
+          b[sortConfig.key] === undefined
+        ) {
           return 0;
         }
         const aValue = a[sortConfig.key];
@@ -69,9 +93,11 @@ export default function Pagination(props) {
         const aNum = Number(aValue);
         const bNum = Number(bValue);
         if (!isNaN(aNum) && !isNaN(bNum)) {
-          return sortConfig.direction === 'ascending' ? aNum - bNum : bNum - aNum;
+          return sortConfig.direction === "ascending"
+            ? aNum - bNum
+            : bNum - aNum;
         } else {
-          return sortConfig.direction === 'ascending'
+          return sortConfig.direction === "ascending"
             ? aValue.toString().localeCompare(bValue.toString())
             : bValue.toString().localeCompare(aValue.toString());
         }
@@ -79,7 +105,18 @@ export default function Pagination(props) {
     }
 
     return dataTemp;
-  }, [clgName, category, pool, duration, rank, exam, program, typeOfInstituteName, sortConfig]);
+  }, [
+    clgName,
+    category,
+    pool,
+    duration,
+    rank,
+    exam,
+    program,
+    typeOfInstituteName,
+    sortConfig,
+    quota,
+  ]);
 
   const rowsPerPage = 10;
   const pages = Math.ceil(filteredAndSortedData.length / rowsPerPage);
@@ -87,28 +124,36 @@ export default function Pagination(props) {
   const firstRowIndex = lastRowIndex - rowsPerPage;
   const pageData = filteredAndSortedData.slice(firstRowIndex, lastRowIndex);
 
-
   const handleSort = (key) => {
     setSortConfig((prevConfig) => ({
       key,
-      direction: prevConfig.key === key && prevConfig.direction === 'ascending' ? 'descending' : 'ascending',
+      direction:
+        prevConfig.key === key && prevConfig.direction === "ascending"
+          ? "descending"
+          : "ascending",
     }));
     setCurrPage(1);
   };
 
   return (
     <div id="pagination">
-
-      <Table data={pageData} exam={exam} onSort={handleSort} sortConfig={sortConfig} />
+      <Table
+        data={pageData}
+        exam={exam}
+        onSort={handleSort}
+        sortConfig={sortConfig}
+      />
       <div id="paginationButtons">
         {currPage !== 1 && (
           <button className="pageButton" onClick={() => setCurrPage(1)}>
             First Page
-
           </button>
         )}
         {currPage !== 1 && (
-          <button className="pageButton" onClick={() => setCurrPage(currPage - 1)}>
+          <button
+            className="pageButton"
+            onClick={() => setCurrPage(currPage - 1)}
+          >
             Previous
           </button>
         )}
@@ -116,7 +161,10 @@ export default function Pagination(props) {
           {currPage} of {pages}
         </button>
         {currPage !== pages && (
-          <button className="pageButton" onClick={() => setCurrPage(currPage + 1)}>
+          <button
+            className="pageButton"
+            onClick={() => setCurrPage(currPage + 1)}
+          >
             Next
           </button>
         )}

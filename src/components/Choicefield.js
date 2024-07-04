@@ -18,6 +18,7 @@ export default function Choicefield() {
   const [pool, setPool] = useState("");
   const [duration, setDuration] = useState("");
   const [program, setProgram] = useState("");
+  const [quota, setQuota] = useState("");
 
   let dataTemp = [];
   let RankorMarks;
@@ -54,8 +55,15 @@ export default function Choicefield() {
     });
     return (val = [...new Set(val)]);
   };
-
   const uniqueProgram = getUniqueProgram(clgName);
+
+  const getUniqueQuota = () => {
+    let val = dataTemp.map((currElem) => {
+      return currElem.Quota;
+    });
+    return (val = [...new Set(val)]);
+  };
+  const uniqueQuota = getUniqueQuota();
 
   const categorySelect = (event) => {
     setCategory(event.target.value);
@@ -64,6 +72,7 @@ export default function Choicefield() {
     setExam(event.target.value);
     setClgName("");
     setProgram("");
+    setQuota("");
     if (event.target.value === "JEE Advanced") {
       setTypeOfInstituteName("IIT");
     } else if (event.target.value === "JEE Mains") {
@@ -77,6 +86,7 @@ export default function Choicefield() {
     setTypeOfInstituteName(event.target.value);
     setClgName("");
     setProgram("");
+    setQuota("");
   };
 
   return (
@@ -125,6 +135,21 @@ export default function Choicefield() {
                 <option value="SC">SC</option>
                 <option value="ST">ST</option>
                 <option value="OPEN (PwD)">PWD</option>
+              </select>
+            </div>
+            <div id="quotaInfo">
+              <button className="infoButton">Qouta</button>
+              <select
+                className="dropdownSelect"
+                id="quota"
+                onChange={(e) => {
+                  setQuota(e.target.value);
+                }}
+              >
+                <option value="">ALL</option>
+                {uniqueQuota.map((val) => {
+                  return <option value={val}>{val}</option>;
+                })}
               </select>
             </div>
           </div>
@@ -346,6 +371,7 @@ export default function Choicefield() {
           pool={pool}
           duration={duration}
           program={program}
+          quota={quota}
         />
       </div>
     </>
