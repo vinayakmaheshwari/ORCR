@@ -309,6 +309,7 @@ body {
   margin: 5px;
   text-align: center;
   border-radius: 10px;
+  white-space: nowrap;
 }
 
 #pagination h2 {
