@@ -7,7 +7,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "224",
+    Closing_Rank: "252",
   },
   {
     Institute: "BITS-Pilani ",
@@ -17,7 +17,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "213",
+    Closing_Rank: "242",
   },
   {
     Institute: "BITS-Pilani ",
@@ -27,7 +27,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "272",
+    Closing_Rank: "296",
   },
   {
     Institute: "BITS-Pilani ",
@@ -57,7 +57,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "266",
+    Closing_Rank: "285",
   },
   {
     Institute: "BITS-Pilani ",
@@ -67,7 +67,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "296",
+    Closing_Rank: "318",
   },
   {
     Institute: "BITS-Pilani ",
@@ -77,7 +77,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "220",
+    Closing_Rank: "251",
   },
   {
     Institute: "BITS-Pilani ",
@@ -87,7 +87,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "153",
+    Closing_Rank: "178",
   },
   {
     Institute: "BITS-Pilani ",
@@ -97,7 +97,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "212",
+    Closing_Rank: "239",
   },
   {
     Institute: "BITS-Pilani ",
@@ -107,7 +107,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "213",
+    Closing_Rank: "243",
   },
   {
     Institute: "BITS-Pilani ",
@@ -117,7 +117,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "257",
+    Closing_Rank: "274",
   },
   {
     Institute: "BITS-Pilani ",
@@ -127,7 +127,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "236",
+    Closing_Rank: "259",
   },
   {
     Institute: "BITS-Pilani ",
@@ -137,7 +137,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "235",
+    Closing_Rank: "255",
   },
   {
     Institute: "BITS-Goa ",
@@ -147,7 +147,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "209",
+    Closing_Rank: "242",
   },
   {
     Institute: "BITS-Goa ",
@@ -157,7 +157,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "252",
+    Closing_Rank: "278",
   },
   {
     Institute: "BITS-Goa ",
@@ -167,7 +167,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "223",
+    Closing_Rank: "258",
   },
   {
     Institute: "BITS-Goa ",
@@ -177,27 +177,27 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "295",
+    Closing_Rank: "304",
   },
   {
     Institute: "BITS-Goa ",
-    Academic_Program_Name: "Electrical & Instrumentation",
+    Academic_Program_Name: "Electronics & Instrumentation",
     duration: "4 Years",
     Degree_Type: "BE",
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "244",
+    Closing_Rank: "271",
   },
   {
     Institute: "BITS-Goa ",
-    Academic_Program_Name: "Electrical & Communication",
+    Academic_Program_Name: "Electronics & Communication",
     duration: "4 Years",
     Degree_Type: "BE",
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "267",
+    Closing_Rank: "289",
   },
   {
     Institute: "BITS-Goa ",
@@ -207,7 +207,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "204",
+    Closing_Rank: "236",
   },
   {
     Institute: "BITS-Goa ",
@@ -217,7 +217,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "205",
+    Closing_Rank: "238",
   },
   {
     Institute: "BITS-Goa ",
@@ -227,7 +227,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "239",
+    Closing_Rank: "265",
   },
   {
     Institute: "BITS-Goa ",
@@ -237,7 +237,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "221",
+    Closing_Rank: "246",
   },
   {
     Institute: "BITS-Goa ",
@@ -247,7 +247,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "222",
+    Closing_Rank: "250",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -257,7 +257,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "207",
+    Closing_Rank: "241",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -267,7 +267,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "204",
+    Closing_Rank: "237",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -277,7 +277,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "251",
+    Closing_Rank: "275",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -287,7 +287,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "218",
+    Closing_Rank: "252",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -297,7 +297,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "284",
+    Closing_Rank: "298",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -307,7 +307,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "244",
+    Closing_Rank: "270",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -317,7 +317,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "265",
+    Closing_Rank: "285",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -327,7 +327,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "135",
+    Closing_Rank: "186",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -337,7 +337,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "204",
+    Closing_Rank: "234",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -347,7 +347,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "205",
+    Closing_Rank: "237",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -357,7 +357,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "236",
+    Closing_Rank: "262",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -367,7 +367,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "219",
+    Closing_Rank: "248",
   },
   {
     Institute: "BITS-Hyderabad ",
@@ -377,7 +377,7 @@ export const BITSClg = [
     Quota: "AI",
     Seat_Type: "OPEN",
     Gender: "Gender-Neutral",
-    Closing_Rank: "219",
+    Closing_Rank: "245",
   },
   
 ];
