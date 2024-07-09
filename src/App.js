@@ -13,6 +13,7 @@ function App() {
         <h1>Previous Year Opening Closing Rank</h1>
       </div>
       <Choicefield />
+    <Analytics/>
       <Footer/>
     </div>
   );
