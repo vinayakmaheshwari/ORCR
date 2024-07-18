@@ -1,7 +1,7 @@
 export const GFTI = [
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12,7 +12,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -23,7 +23,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -34,7 +34,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -45,7 +45,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -56,7 +56,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -67,7 +67,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -78,7 +78,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -89,7 +89,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -100,7 +100,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -111,7 +111,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -122,7 +122,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -133,7 +133,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -144,7 +144,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -155,7 +155,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -166,7 +166,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -177,7 +177,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -188,7 +188,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -199,7 +199,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -210,7 +210,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -221,7 +221,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -232,7 +232,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -243,7 +243,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -254,7 +254,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -265,7 +265,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -276,7 +276,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -287,7 +287,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -298,7 +298,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -309,7 +309,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -320,7 +320,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -331,7 +331,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -342,7 +342,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -353,7 +353,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -364,7 +364,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -375,7 +375,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -386,7 +386,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -397,7 +397,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -408,7 +408,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -419,7 +419,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -430,7 +430,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -441,7 +441,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -452,7 +452,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -463,7 +463,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -474,7 +474,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -485,7 +485,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -496,7 +496,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -507,7 +507,7 @@ export const GFTI = [
  },
  {
    "Institute": "Assam University Silchar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -518,7 +518,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -529,7 +529,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -540,7 +540,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -551,7 +551,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -562,7 +562,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -573,7 +573,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "HS",
@@ -584,7 +584,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "HS",
@@ -595,7 +595,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -606,7 +606,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -617,7 +617,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -628,7 +628,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -639,7 +639,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -650,7 +650,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -661,7 +661,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -672,7 +672,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -683,7 +683,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -694,7 +694,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -705,7 +705,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -716,7 +716,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -727,7 +727,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -738,7 +738,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -749,7 +749,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -760,7 +760,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -771,7 +771,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -782,7 +782,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -793,7 +793,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -804,7 +804,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -815,7 +815,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -826,7 +826,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -837,7 +837,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -848,7 +848,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -859,7 +859,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -870,7 +870,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -881,7 +881,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -892,7 +892,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -903,7 +903,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -914,7 +914,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -925,7 +925,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -936,7 +936,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -947,7 +947,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -958,7 +958,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -969,7 +969,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -980,7 +980,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -991,7 +991,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1002,7 +1002,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1013,7 +1013,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1024,7 +1024,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1035,7 +1035,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1046,7 +1046,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1057,7 +1057,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1068,7 +1068,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1079,7 +1079,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1090,7 +1090,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1101,7 +1101,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1112,7 +1112,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1123,7 +1123,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1134,7 +1134,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1145,7 +1145,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1156,7 +1156,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1167,7 +1167,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1178,7 +1178,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1189,7 +1189,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1200,7 +1200,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1211,7 +1211,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1222,7 +1222,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1233,7 +1233,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1244,7 +1244,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1255,7 +1255,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1266,7 +1266,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1277,7 +1277,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1288,7 +1288,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1299,7 +1299,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1310,7 +1310,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1321,7 +1321,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1332,7 +1332,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1343,7 +1343,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1354,7 +1354,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1365,7 +1365,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1376,7 +1376,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1387,7 +1387,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1398,7 +1398,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1409,7 +1409,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1420,7 +1420,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1431,7 +1431,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1442,7 +1442,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1453,7 +1453,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1464,7 +1464,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1475,7 +1475,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1486,7 +1486,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1497,7 +1497,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1508,7 +1508,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1519,7 +1519,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1530,7 +1530,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1541,7 +1541,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1552,7 +1552,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1563,7 +1563,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1574,7 +1574,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1585,7 +1585,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1596,7 +1596,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1607,7 +1607,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1618,7 +1618,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1629,7 +1629,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1640,7 +1640,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1651,7 +1651,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1662,7 +1662,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1673,7 +1673,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1684,7 +1684,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1695,7 +1695,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1706,7 +1706,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1717,7 +1717,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1728,7 +1728,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -1739,7 +1739,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -1750,7 +1750,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -1761,7 +1761,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -1772,7 +1772,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -1783,7 +1783,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1794,7 +1794,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1805,7 +1805,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1816,7 +1816,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1827,7 +1827,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1838,7 +1838,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -1849,7 +1849,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1860,7 +1860,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1871,7 +1871,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1882,7 +1882,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1893,7 +1893,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -1904,7 +1904,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1915,7 +1915,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1926,7 +1926,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1937,7 +1937,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1948,7 +1948,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1959,7 +1959,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -1970,7 +1970,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -1981,7 +1981,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -1992,7 +1992,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -2003,7 +2003,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -2014,7 +2014,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2025,7 +2025,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2036,7 +2036,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2047,7 +2047,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2058,7 +2058,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2069,7 +2069,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2080,7 +2080,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2091,7 +2091,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -2102,7 +2102,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -2113,7 +2113,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -2124,7 +2124,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -2135,7 +2135,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -2146,7 +2146,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -2157,7 +2157,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -2168,7 +2168,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -2179,7 +2179,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -2190,7 +2190,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -2201,7 +2201,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -2212,7 +2212,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -2223,7 +2223,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -2234,7 +2234,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Mesra  Ranchi",
-   "Academic Program Name": "Quantitative Economics  Data Science ",
+   "Academic_Program_Name": "Quantitative Economics  Data Science ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "HS",
@@ -2245,7 +2245,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2256,7 +2256,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2267,7 +2267,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2278,7 +2278,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2289,7 +2289,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2300,7 +2300,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2311,7 +2311,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2322,7 +2322,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2333,7 +2333,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2344,7 +2344,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2355,7 +2355,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2366,7 +2366,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2377,7 +2377,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2388,7 +2388,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2399,7 +2399,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2410,7 +2410,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2421,7 +2421,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2432,7 +2432,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2443,7 +2443,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2454,7 +2454,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2465,7 +2465,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2476,7 +2476,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gurukula Kangri Vishwavidyalaya Haridwar",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2487,7 +2487,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Carpet Technology  Bhadohi",
-   "Academic Program Name": "Carpet  and Textile Technology ",
+   "Academic_Program_Name": "Carpet  and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2498,7 +2498,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Carpet Technology  Bhadohi",
-   "Academic Program Name": "Carpet  and Textile Technology ",
+   "Academic_Program_Name": "Carpet  and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2509,7 +2509,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Carpet Technology  Bhadohi",
-   "Academic Program Name": "Carpet  and Textile Technology ",
+   "Academic_Program_Name": "Carpet  and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2520,7 +2520,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Carpet Technology  Bhadohi",
-   "Academic Program Name": "Carpet  and Textile Technology ",
+   "Academic_Program_Name": "Carpet  and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2531,7 +2531,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Carpet Technology  Bhadohi",
-   "Academic Program Name": "Carpet  and Textile Technology ",
+   "Academic_Program_Name": "Carpet  and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2542,7 +2542,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2553,7 +2553,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2564,7 +2564,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2575,7 +2575,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2586,7 +2586,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2597,7 +2597,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2608,7 +2608,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2619,7 +2619,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2630,7 +2630,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2641,7 +2641,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2652,7 +2652,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2663,7 +2663,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2674,7 +2674,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2685,7 +2685,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2696,7 +2696,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2707,7 +2707,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2718,7 +2718,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2729,7 +2729,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2740,7 +2740,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2751,7 +2751,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2762,7 +2762,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2773,7 +2773,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2784,7 +2784,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Infrastructure Technology Research and Management-Ahmedabad",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2795,7 +2795,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2806,7 +2806,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2817,7 +2817,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2828,7 +2828,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2839,7 +2839,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2850,7 +2850,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2861,7 +2861,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2872,7 +2872,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2883,7 +2883,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2894,7 +2894,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2905,7 +2905,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2916,7 +2916,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2927,7 +2927,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2938,7 +2938,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2949,7 +2949,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2960,7 +2960,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2971,7 +2971,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2982,7 +2982,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -2993,7 +2993,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3004,7 +3004,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3015,7 +3015,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3026,7 +3026,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3037,7 +3037,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3048,7 +3048,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3059,7 +3059,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3070,7 +3070,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3081,7 +3081,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3092,7 +3092,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Industrial and Production Engineering ",
+   "Academic_Program_Name": "Industrial and Production Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3103,7 +3103,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Industrial and Production Engineering ",
+   "Academic_Program_Name": "Industrial and Production Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3114,7 +3114,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Industrial and Production Engineering ",
+   "Academic_Program_Name": "Industrial and Production Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3125,7 +3125,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Industrial and Production Engineering ",
+   "Academic_Program_Name": "Industrial and Production Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3136,7 +3136,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Industrial and Production Engineering ",
+   "Academic_Program_Name": "Industrial and Production Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3147,7 +3147,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3158,7 +3158,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3169,7 +3169,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3180,7 +3180,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3191,7 +3191,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3202,7 +3202,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3213,7 +3213,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3224,7 +3224,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3235,7 +3235,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3246,7 +3246,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Studies of Engineering and Technology Guru Ghasidas Vishwavidyalaya Bilaspur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3257,7 +3257,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
+   "Academic_Program_Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3268,7 +3268,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
+   "Academic_Program_Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3279,7 +3279,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
+   "Academic_Program_Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3290,7 +3290,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
+   "Academic_Program_Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3301,7 +3301,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
+   "Academic_Program_Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3312,7 +3312,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
+   "Academic_Program_Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3323,7 +3323,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
+   "Academic_Program_Name": "Computer Science and Engineering with Major in Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3334,7 +3334,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3345,7 +3345,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3356,7 +3356,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3367,7 +3367,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3378,7 +3378,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3389,7 +3389,7 @@ export const GFTI = [
  },
  {
    "Institute": "J.K. Institute of Applied Physics  Technology Department of Electronics  Communication University of Allahabad- Allahabad",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3400,7 +3400,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Electronics and Information Technology Aurangabad (Maharashtra)",
-   "Academic Program Name": "Electronic Engineering ",
+   "Academic_Program_Name": "Electronic Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3411,7 +3411,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Electronics and Information Technology Aurangabad (Maharashtra)",
-   "Academic Program Name": "Electronic Engineering ",
+   "Academic_Program_Name": "Electronic Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3422,7 +3422,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Electronics and Information Technology Aurangabad (Maharashtra)",
-   "Academic Program Name": "Electronic Engineering ",
+   "Academic_Program_Name": "Electronic Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3433,7 +3433,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Electronics and Information Technology Aurangabad (Maharashtra)",
-   "Academic Program Name": "Electronic Engineering ",
+   "Academic_Program_Name": "Electronic Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3444,7 +3444,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Electronics and Information Technology Aurangabad (Maharashtra)",
-   "Academic Program Name": "Electronic Engineering ",
+   "Academic_Program_Name": "Electronic Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3455,7 +3455,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Electronics and Information Technology Aurangabad (Maharashtra)",
-   "Academic Program Name": "Electronic Engineering ",
+   "Academic_Program_Name": "Electronic Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3466,7 +3466,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3477,7 +3477,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3488,7 +3488,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3499,7 +3499,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3510,7 +3510,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3521,7 +3521,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3532,7 +3532,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3543,7 +3543,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3554,7 +3554,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3565,7 +3565,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3576,7 +3576,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3587,7 +3587,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3598,7 +3598,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3609,7 +3609,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3620,7 +3620,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3631,7 +3631,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3642,7 +3642,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3653,7 +3653,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3664,7 +3664,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3675,7 +3675,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3686,7 +3686,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3697,7 +3697,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3708,7 +3708,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3719,7 +3719,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3730,7 +3730,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3741,7 +3741,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3752,7 +3752,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3763,7 +3763,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3774,7 +3774,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3785,7 +3785,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3796,7 +3796,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Metallurgy and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgy and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3807,7 +3807,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3818,7 +3818,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3829,7 +3829,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3840,7 +3840,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3851,7 +3851,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3862,7 +3862,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3873,7 +3873,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3884,7 +3884,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3895,7 +3895,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3906,7 +3906,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Advanced Manufacturing Technology Ranchi",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3917,7 +3917,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3928,7 +3928,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3939,7 +3939,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3950,7 +3950,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3961,7 +3961,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -3972,7 +3972,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemistry ",
+   "Academic_Program_Name": "Chemistry ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -3983,7 +3983,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemistry ",
+   "Academic_Program_Name": "Chemistry ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -3994,7 +3994,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemistry ",
+   "Academic_Program_Name": "Chemistry ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4005,7 +4005,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemistry ",
+   "Academic_Program_Name": "Chemistry ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4016,7 +4016,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Chemistry ",
+   "Academic_Program_Name": "Chemistry ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4027,7 +4027,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4038,7 +4038,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4049,7 +4049,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4060,7 +4060,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4071,7 +4071,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4082,7 +4082,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4093,7 +4093,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4104,7 +4104,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4115,7 +4115,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4126,7 +4126,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4137,7 +4137,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4148,7 +4148,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4159,7 +4159,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4170,7 +4170,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4181,7 +4181,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4192,7 +4192,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4203,7 +4203,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4214,7 +4214,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4225,7 +4225,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4236,7 +4236,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4247,7 +4247,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4258,7 +4258,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4269,7 +4269,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4280,7 +4280,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4291,7 +4291,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4302,7 +4302,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4313,7 +4313,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4324,7 +4324,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Instrumentation and Control Engineering ",
+   "Academic_Program_Name": "Instrumentation and Control Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4335,7 +4335,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Instrumentation and Control Engineering ",
+   "Academic_Program_Name": "Instrumentation and Control Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4346,7 +4346,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Instrumentation and Control Engineering ",
+   "Academic_Program_Name": "Instrumentation and Control Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4357,7 +4357,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Instrumentation and Control Engineering ",
+   "Academic_Program_Name": "Instrumentation and Control Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4368,7 +4368,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Instrumentation and Control Engineering ",
+   "Academic_Program_Name": "Instrumentation and Control Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4379,7 +4379,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mathematics ",
+   "Academic_Program_Name": "Mathematics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4390,7 +4390,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mathematics ",
+   "Academic_Program_Name": "Mathematics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4401,7 +4401,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mathematics ",
+   "Academic_Program_Name": "Mathematics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4412,7 +4412,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mathematics ",
+   "Academic_Program_Name": "Mathematics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4423,7 +4423,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mathematics ",
+   "Academic_Program_Name": "Mathematics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4434,7 +4434,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4445,7 +4445,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4456,7 +4456,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4467,7 +4467,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4478,7 +4478,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4489,7 +4489,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4500,7 +4500,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4511,7 +4511,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4522,7 +4522,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4533,7 +4533,7 @@ export const GFTI = [
  },
  {
    "Institute": "Sant Longowal Institute of Engineering and Technology",
-   "Academic Program Name": "Physics ",
+   "Academic_Program_Name": "Physics ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Science)",
    "Quota": "AI",
@@ -4544,7 +4544,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -4555,7 +4555,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -4566,7 +4566,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -4577,7 +4577,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -4588,7 +4588,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4599,7 +4599,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4610,7 +4610,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4621,7 +4621,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4632,7 +4632,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4643,7 +4643,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4654,7 +4654,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4665,7 +4665,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4676,7 +4676,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4687,7 +4687,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4698,7 +4698,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4709,7 +4709,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4720,7 +4720,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4731,7 +4731,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4742,7 +4742,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4753,7 +4753,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4764,7 +4764,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4775,7 +4775,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4786,7 +4786,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4797,7 +4797,7 @@ export const GFTI = [
  },
  {
    "Institute": "Mizoram University Aizawl",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4808,7 +4808,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Bachelor of Design ",
+   "Academic_Program_Name": "Bachelor of Design ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Design)",
    "Quota": "AI",
@@ -4819,7 +4819,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Bachelor of Design ",
+   "Academic_Program_Name": "Bachelor of Design ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Design)",
    "Quota": "AI",
@@ -4830,7 +4830,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Bachelor of Design ",
+   "Academic_Program_Name": "Bachelor of Design ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Design)",
    "Quota": "AI",
@@ -4841,7 +4841,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4852,7 +4852,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4863,7 +4863,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4874,7 +4874,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4885,7 +4885,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4896,7 +4896,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4907,7 +4907,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4918,7 +4918,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4929,7 +4929,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4940,7 +4940,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4951,7 +4951,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4962,7 +4962,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4973,7 +4973,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4984,7 +4984,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -4995,7 +4995,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5006,7 +5006,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5017,7 +5017,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5028,7 +5028,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5039,7 +5039,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5050,7 +5050,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5061,7 +5061,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5072,7 +5072,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5083,7 +5083,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5094,7 +5094,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5105,7 +5105,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5116,7 +5116,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5127,7 +5127,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5138,7 +5138,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5149,7 +5149,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5160,7 +5160,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Engineering Tezpur University Napaam Tezpur",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5171,7 +5171,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5182,7 +5182,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5193,7 +5193,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5204,7 +5204,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5215,7 +5215,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5226,7 +5226,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5237,7 +5237,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5248,7 +5248,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5259,7 +5259,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5270,7 +5270,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5281,7 +5281,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture Bhopal",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5292,7 +5292,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5303,7 +5303,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5314,7 +5314,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5325,7 +5325,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5336,7 +5336,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5347,7 +5347,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5358,7 +5358,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5369,7 +5369,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5380,7 +5380,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5391,7 +5391,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5402,7 +5402,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5413,7 +5413,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture New Delhi",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5424,7 +5424,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5435,7 +5435,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5446,7 +5446,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5457,7 +5457,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5468,7 +5468,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5479,7 +5479,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5490,7 +5490,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5501,7 +5501,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5512,7 +5512,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5523,7 +5523,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5534,7 +5534,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5545,7 +5545,7 @@ export const GFTI = [
  },
  {
    "Institute": "School of Planning  Architecture: Vijayawada",
-   "Academic Program Name": "Planning ",
+   "Academic_Program_Name": "Planning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Planning)",
    "Quota": "AI",
@@ -5556,7 +5556,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5567,7 +5567,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5578,7 +5578,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5589,7 +5589,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5600,7 +5600,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Architecture  ",
+   "Academic_Program_Name": "Architecture  ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor of Architecture)",
    "Quota": "AI",
@@ -5611,7 +5611,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "B.Tech in Mathematics and Computing ",
+   "Academic_Program_Name": "B.Tech in Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5622,7 +5622,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "B.Tech in Mathematics and Computing ",
+   "Academic_Program_Name": "B.Tech in Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5633,7 +5633,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "B.Tech in Mathematics and Computing ",
+   "Academic_Program_Name": "B.Tech in Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5644,7 +5644,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "B.Tech in Mathematics and Computing ",
+   "Academic_Program_Name": "B.Tech in Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5655,7 +5655,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "B.Tech in Mathematics and Computing ",
+   "Academic_Program_Name": "B.Tech in Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5666,7 +5666,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5677,7 +5677,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5688,7 +5688,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5699,7 +5699,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5710,7 +5710,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Bio Technology ",
+   "Academic_Program_Name": "Bio Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5721,7 +5721,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5732,7 +5732,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5743,7 +5743,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5754,7 +5754,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5765,7 +5765,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5776,7 +5776,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5787,7 +5787,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5798,7 +5798,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5809,7 +5809,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5820,7 +5820,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5831,7 +5831,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5842,7 +5842,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5853,7 +5853,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5864,7 +5864,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5875,7 +5875,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5886,7 +5886,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5897,7 +5897,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5908,7 +5908,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5919,7 +5919,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5930,7 +5930,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5941,7 +5941,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5952,7 +5952,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5963,7 +5963,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5974,7 +5974,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5985,7 +5985,7 @@ export const GFTI = [
  },
  {
    "Institute": "Shri Mata Vaishno Devi University Katra Jammu  Kashmir",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -5996,7 +5996,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6007,7 +6007,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6018,7 +6018,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6029,7 +6029,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6040,7 +6040,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6051,7 +6051,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6062,7 +6062,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Data Science and Artificial Intelligence ",
+   "Academic_Program_Name": "Data Science and Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6073,7 +6073,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Data Science and Artificial Intelligence ",
+   "Academic_Program_Name": "Data Science and Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6084,7 +6084,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Data Science and Artificial Intelligence ",
+   "Academic_Program_Name": "Data Science and Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6095,7 +6095,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Data Science and Artificial Intelligence ",
+   "Academic_Program_Name": "Data Science and Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6106,7 +6106,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Data Science and Artificial Intelligence ",
+   "Academic_Program_Name": "Data Science and Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6117,7 +6117,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Data Science and Artificial Intelligence ",
+   "Academic_Program_Name": "Data Science and Artificial Intelligence ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6128,7 +6128,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6139,7 +6139,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6150,7 +6150,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6161,7 +6161,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6172,7 +6172,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6183,7 +6183,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Naya Raipur",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -6194,7 +6194,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor and Master of Technology (Dual Degree))",
    "Quota": "AI",
@@ -6205,7 +6205,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor and Master of Technology (Dual Degree))",
    "Quota": "AI",
@@ -6216,7 +6216,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor and Master of Technology (Dual Degree))",
    "Quota": "AI",
@@ -6227,7 +6227,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor and Master of Technology (Dual Degree))",
    "Quota": "AI",
@@ -6238,7 +6238,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor and Master of Technology (Dual Degree))",
    "Quota": "AI",
@@ -6249,7 +6249,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor and Master of Technology (Dual Degree))",
    "Quota": "AI",
@@ -6260,7 +6260,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Bachelor and Master of Technology (Dual Degree))",
    "Quota": "AI",
@@ -6271,7 +6271,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Materials Engineering ",
+   "Academic_Program_Name": "Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Technology)",
    "Quota": "AI",
@@ -6282,7 +6282,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Materials Engineering ",
+   "Academic_Program_Name": "Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Technology)",
    "Quota": "AI",
@@ -6293,7 +6293,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Materials Engineering ",
+   "Academic_Program_Name": "Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Technology)",
    "Quota": "AI",
@@ -6304,7 +6304,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Materials Engineering ",
+   "Academic_Program_Name": "Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Technology)",
    "Quota": "AI",
@@ -6315,7 +6315,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Materials Engineering ",
+   "Academic_Program_Name": "Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Technology)",
    "Quota": "AI",
@@ -6326,7 +6326,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Materials Engineering ",
+   "Academic_Program_Name": "Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Technology)",
    "Quota": "AI",
@@ -6337,7 +6337,7 @@ export const GFTI = [
  },
  {
    "Institute": "University of Hyderabad",
-   "Academic Program Name": "Materials Engineering ",
+   "Academic_Program_Name": "Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Master of Technology)",
    "Quota": "AI",
@@ -6348,7 +6348,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Aerospace Engineering ",
+   "Academic_Program_Name": "Aerospace Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6359,7 +6359,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Aerospace Engineering ",
+   "Academic_Program_Name": "Aerospace Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6370,7 +6370,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Aerospace Engineering ",
+   "Academic_Program_Name": "Aerospace Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6381,7 +6381,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Aerospace Engineering ",
+   "Academic_Program_Name": "Aerospace Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6392,7 +6392,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Aerospace Engineering ",
+   "Academic_Program_Name": "Aerospace Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6403,7 +6403,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Aerospace Engineering ",
+   "Academic_Program_Name": "Aerospace Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6414,7 +6414,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Aerospace Engineering ",
+   "Academic_Program_Name": "Aerospace Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6425,7 +6425,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6436,7 +6436,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6447,7 +6447,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6458,7 +6458,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6469,7 +6469,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6480,7 +6480,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6491,7 +6491,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6502,7 +6502,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6513,7 +6513,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6524,7 +6524,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6535,7 +6535,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6546,7 +6546,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6557,7 +6557,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6568,7 +6568,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6579,7 +6579,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6590,7 +6590,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6601,7 +6601,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6612,7 +6612,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "HS",
@@ -6623,7 +6623,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "HS",
@@ -6634,7 +6634,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "HS",
@@ -6645,7 +6645,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6656,7 +6656,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6667,7 +6667,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6678,7 +6678,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6689,7 +6689,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6700,7 +6700,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "HS",
@@ -6711,7 +6711,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "HS",
@@ -6722,7 +6722,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "HS",
@@ -6733,7 +6733,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6744,7 +6744,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6755,7 +6755,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6766,7 +6766,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6777,7 +6777,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "OS",
@@ -6788,7 +6788,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6799,7 +6799,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6810,7 +6810,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6821,7 +6821,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6832,7 +6832,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6843,7 +6843,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6854,7 +6854,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6865,7 +6865,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6876,7 +6876,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6887,7 +6887,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6898,7 +6898,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6909,7 +6909,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6920,7 +6920,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6931,7 +6931,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6942,7 +6942,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6953,7 +6953,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -6964,7 +6964,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics Engineering (VLSI Design and Technology) ",
+   "Academic_Program_Name": "Electronics Engineering (VLSI Design and Technology) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6975,7 +6975,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics Engineering (VLSI Design and Technology) ",
+   "Academic_Program_Name": "Electronics Engineering (VLSI Design and Technology) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6986,7 +6986,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics Engineering (VLSI Design and Technology) ",
+   "Academic_Program_Name": "Electronics Engineering (VLSI Design and Technology) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -6997,7 +6997,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics Engineering (VLSI Design and Technology) ",
+   "Academic_Program_Name": "Electronics Engineering (VLSI Design and Technology) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7008,7 +7008,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics Engineering (VLSI Design and Technology) ",
+   "Academic_Program_Name": "Electronics Engineering (VLSI Design and Technology) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7019,7 +7019,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics Engineering (VLSI Design and Technology) ",
+   "Academic_Program_Name": "Electronics Engineering (VLSI Design and Technology) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7030,7 +7030,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Electronics Engineering (VLSI Design and Technology) ",
+   "Academic_Program_Name": "Electronics Engineering (VLSI Design and Technology) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7041,7 +7041,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7052,7 +7052,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7063,7 +7063,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7074,7 +7074,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7085,7 +7085,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7096,7 +7096,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7107,7 +7107,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mathematics and Computing ",
+   "Academic_Program_Name": "Mathematics and Computing ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7118,7 +7118,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7129,7 +7129,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7140,7 +7140,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7151,7 +7151,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7162,7 +7162,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7173,7 +7173,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7184,7 +7184,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7195,7 +7195,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7206,7 +7206,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Metallurgical and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgical and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7217,7 +7217,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Metallurgical and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgical and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7228,7 +7228,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Metallurgical and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgical and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7239,7 +7239,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Metallurgical and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgical and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7250,7 +7250,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Metallurgical and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgical and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7261,7 +7261,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Metallurgical and Materials Engineering ",
+   "Academic_Program_Name": "Metallurgical and Materials Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7272,7 +7272,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7283,7 +7283,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -7294,7 +7294,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7305,7 +7305,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7316,7 +7316,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7327,7 +7327,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7338,7 +7338,7 @@ export const GFTI = [
  },
  {
    "Institute": "Punjab Engineering College Chandigarh",
-   "Academic Program Name": "Production and Industrial Engineering ",
+   "Academic_Program_Name": "Production and Industrial Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -7349,7 +7349,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7360,7 +7360,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7371,7 +7371,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7382,7 +7382,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7393,7 +7393,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7404,7 +7404,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7415,7 +7415,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7426,7 +7426,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7437,7 +7437,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7448,7 +7448,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7459,7 +7459,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7470,7 +7470,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7481,7 +7481,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7492,7 +7492,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7503,7 +7503,7 @@ export const GFTI = [
  },
  {
    "Institute": "Jawaharlal Nehru University Delhi",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7514,7 +7514,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7525,7 +7525,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7536,7 +7536,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7547,7 +7547,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7558,7 +7558,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7569,7 +7569,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Engineering ",
+   "Academic_Program_Name": "Computer Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7580,7 +7580,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7591,7 +7591,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7602,7 +7602,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7613,7 +7613,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7624,7 +7624,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7635,7 +7635,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7646,7 +7646,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7657,7 +7657,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7668,7 +7668,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7679,7 +7679,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7690,7 +7690,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7701,7 +7701,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7712,7 +7712,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7723,7 +7723,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electronics and Telecommunication Engineering ",
+   "Academic_Program_Name": "Electronics and Telecommunication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7734,7 +7734,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electronics and Telecommunication Engineering ",
+   "Academic_Program_Name": "Electronics and Telecommunication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7745,7 +7745,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electronics and Telecommunication Engineering ",
+   "Academic_Program_Name": "Electronics and Telecommunication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7756,7 +7756,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electronics and Telecommunication Engineering ",
+   "Academic_Program_Name": "Electronics and Telecommunication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7767,7 +7767,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electronics and Telecommunication Engineering ",
+   "Academic_Program_Name": "Electronics and Telecommunication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7778,7 +7778,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Electronics and Telecommunication Engineering ",
+   "Academic_Program_Name": "Electronics and Telecommunication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7789,7 +7789,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7800,7 +7800,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7811,7 +7811,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7822,7 +7822,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7833,7 +7833,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7844,7 +7844,7 @@ export const GFTI = [
  },
  {
    "Institute": "International Institute of Information Technology Bhubaneswar",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7855,7 +7855,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7866,7 +7866,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7877,7 +7877,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7888,7 +7888,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7899,7 +7899,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7910,7 +7910,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7921,7 +7921,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7932,7 +7932,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7943,7 +7943,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7954,7 +7954,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7965,7 +7965,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7976,7 +7976,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7987,7 +7987,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -7998,7 +7998,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8009,7 +8009,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8020,7 +8020,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8031,7 +8031,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8042,7 +8042,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Instrumentation Engineering ",
+   "Academic_Program_Name": "Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8053,7 +8053,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Instrumentation Engineering ",
+   "Academic_Program_Name": "Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8064,7 +8064,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central institute of Technology Kokrajar Assam",
-   "Academic Program Name": "Instrumentation Engineering ",
+   "Academic_Program_Name": "Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8075,7 +8075,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8086,7 +8086,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8097,7 +8097,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8108,7 +8108,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8119,7 +8119,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8130,7 +8130,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8141,7 +8141,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8152,7 +8152,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8163,7 +8163,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8174,7 +8174,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8185,7 +8185,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8196,7 +8196,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8207,7 +8207,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8218,7 +8218,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8229,7 +8229,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8240,7 +8240,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8251,7 +8251,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8262,7 +8262,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8273,7 +8273,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8284,7 +8284,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8295,7 +8295,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8306,7 +8306,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8317,7 +8317,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8328,7 +8328,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8339,7 +8339,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8350,7 +8350,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8361,7 +8361,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8372,7 +8372,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8383,7 +8383,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8394,7 +8394,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8405,7 +8405,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8416,7 +8416,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8427,7 +8427,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8438,7 +8438,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8449,7 +8449,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8460,7 +8460,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8471,7 +8471,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Instrumentation Engineering ",
+   "Academic_Program_Name": "Electronics and Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8482,7 +8482,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Instrumentation Engineering ",
+   "Academic_Program_Name": "Electronics and Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8493,7 +8493,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Instrumentation Engineering ",
+   "Academic_Program_Name": "Electronics and Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8504,7 +8504,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Instrumentation Engineering ",
+   "Academic_Program_Name": "Electronics and Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8515,7 +8515,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Electronics and Instrumentation Engineering ",
+   "Academic_Program_Name": "Electronics and Instrumentation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8526,7 +8526,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8537,7 +8537,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8548,7 +8548,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8559,7 +8559,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8570,7 +8570,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8581,7 +8581,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8592,7 +8592,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8603,7 +8603,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8614,7 +8614,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8625,7 +8625,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8636,7 +8636,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8647,7 +8647,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8658,7 +8658,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8669,7 +8669,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8680,7 +8680,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8691,7 +8691,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8702,7 +8702,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -8713,7 +8713,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8724,7 +8724,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8735,7 +8735,7 @@ export const GFTI = [
  },
  {
    "Institute": "Puducherry Technological University Puducherry",
-   "Academic Program Name": "Mechatronics Engineering ",
+   "Academic_Program_Name": "Mechatronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8746,7 +8746,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8757,7 +8757,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8768,7 +8768,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8779,7 +8779,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8790,7 +8790,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8801,7 +8801,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8812,7 +8812,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8823,7 +8823,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8834,7 +8834,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8845,7 +8845,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Civil and Environmental Engineering ",
+   "Academic_Program_Name": "Civil and Environmental Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8856,7 +8856,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8867,7 +8867,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8878,7 +8878,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8889,7 +8889,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8900,7 +8900,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8911,7 +8911,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8922,7 +8922,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8933,7 +8933,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8944,7 +8944,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8955,7 +8955,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -8966,7 +8966,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8977,7 +8977,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8988,7 +8988,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -8999,7 +8999,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9010,7 +9010,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9021,7 +9021,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9032,7 +9032,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9043,7 +9043,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9054,7 +9054,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9065,7 +9065,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9076,7 +9076,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9087,7 +9087,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9098,7 +9098,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9109,7 +9109,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9120,7 +9120,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9131,7 +9131,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9142,7 +9142,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9153,7 +9153,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9164,7 +9164,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9175,7 +9175,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9186,7 +9186,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9197,7 +9197,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9208,7 +9208,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9219,7 +9219,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9230,7 +9230,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -9241,7 +9241,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9252,7 +9252,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9263,7 +9263,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9274,7 +9274,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9285,7 +9285,7 @@ export const GFTI = [
  },
  {
    "Institute": "Ghani Khan Choudhary Institute of Engineering and Technology Malda West Bengal",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "OS",
@@ -9296,7 +9296,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Bio Medical Engineering ",
+   "Academic_Program_Name": "Bio Medical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9307,7 +9307,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Bio Medical Engineering ",
+   "Academic_Program_Name": "Bio Medical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9318,7 +9318,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Bio Medical Engineering ",
+   "Academic_Program_Name": "Bio Medical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9329,7 +9329,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Bio Medical Engineering ",
+   "Academic_Program_Name": "Bio Medical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9340,7 +9340,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Bio Medical Engineering ",
+   "Academic_Program_Name": "Bio Medical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9351,7 +9351,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9362,7 +9362,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9373,7 +9373,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9384,7 +9384,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9395,7 +9395,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9406,7 +9406,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9417,7 +9417,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9428,7 +9428,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9439,7 +9439,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9450,7 +9450,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9461,7 +9461,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Rajasthan Rajasthan",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9472,7 +9472,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Kundli",
-   "Academic Program Name": "Food Technology and Management ",
+   "Academic_Program_Name": "Food Technology and Management ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9483,7 +9483,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Kundli",
-   "Academic Program Name": "Food Technology and Management ",
+   "Academic_Program_Name": "Food Technology and Management ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9494,7 +9494,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Kundli",
-   "Academic Program Name": "Food Technology and Management ",
+   "Academic_Program_Name": "Food Technology and Management ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9505,7 +9505,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Kundli",
-   "Academic Program Name": "Food Technology and Management ",
+   "Academic_Program_Name": "Food Technology and Management ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9516,7 +9516,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Kundli",
-   "Academic Program Name": "Food Technology and Management ",
+   "Academic_Program_Name": "Food Technology and Management ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9527,7 +9527,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Kundli",
-   "Academic Program Name": "Food Technology and Management ",
+   "Academic_Program_Name": "Food Technology and Management ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9538,7 +9538,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9549,7 +9549,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9560,7 +9560,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9571,7 +9571,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9582,7 +9582,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9593,7 +9593,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9604,7 +9604,7 @@ export const GFTI = [
  },
  {
    "Institute": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
-   "Academic Program Name": "Food Technology ",
+   "Academic_Program_Name": "Food Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9615,7 +9615,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9626,7 +9626,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Agricultural Engineering ",
+   "Academic_Program_Name": "Agricultural Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9637,7 +9637,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9648,7 +9648,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9659,7 +9659,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9670,7 +9670,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9681,7 +9681,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9692,7 +9692,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9703,7 +9703,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9714,7 +9714,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9725,7 +9725,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9736,7 +9736,7 @@ export const GFTI = [
  },
  {
    "Institute": "North Eastern Regional Institute of Science and Technology Nirjuli-791109 (Itanagar)Arunachal Pradesh",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9747,7 +9747,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology(IIHT) Varanasi",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9758,7 +9758,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology(IIHT) Varanasi",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9769,7 +9769,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology(IIHT) Varanasi",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9780,7 +9780,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology(IIHT) Varanasi",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9791,7 +9791,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology(IIHT) Varanasi",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9802,7 +9802,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9813,7 +9813,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9824,7 +9824,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9835,7 +9835,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9846,7 +9846,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -9857,7 +9857,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9868,7 +9868,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9879,7 +9879,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9890,7 +9890,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9901,7 +9901,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Artificial Intelligence) ",
+   "Academic_Program_Name": "Computer Science Engineering (Artificial Intelligence) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9912,7 +9912,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9923,7 +9923,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9934,7 +9934,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9945,7 +9945,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9956,7 +9956,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9967,7 +9967,7 @@ export const GFTI = [
  },
  {
    "Institute": "Chhattisgarh Swami Vivekanada Technical University Bhilai (CSVTU Bhilai)",
-   "Academic Program Name": "Computer Science Engineering (Data Science) ",
+   "Academic_Program_Name": "Computer Science Engineering (Data Science) ",
    "duration": "4 Years",
    "Degree_Type": " B. Tech / B. Tech (Hons.))",
    "Quota": "AI",
@@ -9978,7 +9978,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "AI",
@@ -9989,7 +9989,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "AI",
@@ -10000,7 +10000,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "AI",
@@ -10011,7 +10011,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "AI",
@@ -10022,7 +10022,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "AI",
@@ -10033,7 +10033,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "AI",
@@ -10044,7 +10044,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "HS",
@@ -10055,7 +10055,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "HS",
@@ -10066,7 +10066,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "HS",
@@ -10077,7 +10077,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "HS",
@@ -10088,7 +10088,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Chemical Technology Mumbai: Indian Oil Odisha Campus Bhubaneswar",
-   "Academic Program Name": "Chemical Engineering ",
+   "Academic_Program_Name": "Chemical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated Masters in Technology)",
    "Quota": "HS",
@@ -10099,7 +10099,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Biomedical Engineering ",
+   "Academic_Program_Name": "Biomedical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10110,7 +10110,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Biomedical Engineering ",
+   "Academic_Program_Name": "Biomedical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10121,7 +10121,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Biomedical Engineering ",
+   "Academic_Program_Name": "Biomedical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10132,7 +10132,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Biomedical Engineering ",
+   "Academic_Program_Name": "Biomedical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10143,7 +10143,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Biomedical Engineering ",
+   "Academic_Program_Name": "Biomedical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10154,7 +10154,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10165,7 +10165,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10176,7 +10176,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10187,7 +10187,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10198,7 +10198,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10209,7 +10209,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Energy Engineering ",
+   "Academic_Program_Name": "Energy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10220,7 +10220,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Energy Engineering ",
+   "Academic_Program_Name": "Energy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10231,7 +10231,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Energy Engineering ",
+   "Academic_Program_Name": "Energy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10242,7 +10242,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Energy Engineering ",
+   "Academic_Program_Name": "Energy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10253,7 +10253,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Energy Engineering ",
+   "Academic_Program_Name": "Energy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10264,7 +10264,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10275,7 +10275,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10286,7 +10286,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10297,7 +10297,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10308,7 +10308,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10319,7 +10319,7 @@ export const GFTI = [
  },
  {
    "Institute": "North-Eastern Hill University Shillong",
-   "Academic Program Name": "Information Technology ",
+   "Academic_Program_Name": "Information Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10330,7 +10330,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10341,7 +10341,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10352,7 +10352,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10363,7 +10363,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10374,7 +10374,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10385,7 +10385,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering with specialization in Cyber Security",
+   "Academic_Program_Name": "Computer Science and Engineering with specialization in Cyber Security",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10396,7 +10396,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering with specialization in Cyber Security",
+   "Academic_Program_Name": "Computer Science and Engineering with specialization in Cyber Security",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10407,7 +10407,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering with specialization in Cyber Security",
+   "Academic_Program_Name": "Computer Science and Engineering with specialization in Cyber Security",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10418,7 +10418,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering with specialization in Cyber Security",
+   "Academic_Program_Name": "Computer Science and Engineering with specialization in Cyber Security",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10429,7 +10429,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering with specialization in Cyber Security",
+   "Academic_Program_Name": "Computer Science and Engineering with specialization in Cyber Security",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10440,7 +10440,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Computer Science and Engineering with specialization in Cyber Security",
+   "Academic_Program_Name": "Computer Science and Engineering with specialization in Cyber Security",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10451,7 +10451,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10462,7 +10462,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10473,7 +10473,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10484,7 +10484,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10495,7 +10495,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10506,7 +10506,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10517,7 +10517,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering (Avionics) ",
+   "Academic_Program_Name": "Electronics and Communication Engineering (Avionics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10528,7 +10528,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering (Avionics) ",
+   "Academic_Program_Name": "Electronics and Communication Engineering (Avionics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10539,7 +10539,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering (Avionics) ",
+   "Academic_Program_Name": "Electronics and Communication Engineering (Avionics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10550,7 +10550,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering (Avionics) ",
+   "Academic_Program_Name": "Electronics and Communication Engineering (Avionics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10561,7 +10561,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Jammu",
-   "Academic Program Name": "Electronics and Communication Engineering (Avionics) ",
+   "Academic_Program_Name": "Electronics and Communication Engineering (Avionics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10572,7 +10572,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Aeronautical Engineering ",
+   "Academic_Program_Name": "Aeronautical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10583,7 +10583,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Aeronautical Engineering ",
+   "Academic_Program_Name": "Aeronautical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10594,7 +10594,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Aeronautical Engineering ",
+   "Academic_Program_Name": "Aeronautical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10605,7 +10605,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Aeronautical Engineering ",
+   "Academic_Program_Name": "Aeronautical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10616,7 +10616,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Aeronautical Engineering ",
+   "Academic_Program_Name": "Aeronautical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10627,7 +10627,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10638,7 +10638,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10649,7 +10649,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10660,7 +10660,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10671,7 +10671,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10682,7 +10682,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Dairy Engineering ",
+   "Academic_Program_Name": "Dairy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10693,7 +10693,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Dairy Engineering ",
+   "Academic_Program_Name": "Dairy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10704,7 +10704,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Dairy Engineering ",
+   "Academic_Program_Name": "Dairy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10715,7 +10715,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Dairy Engineering ",
+   "Academic_Program_Name": "Dairy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10726,7 +10726,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Dairy Engineering ",
+   "Academic_Program_Name": "Dairy Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10737,7 +10737,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10748,7 +10748,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10759,7 +10759,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10770,7 +10770,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10781,7 +10781,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10792,7 +10792,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Fashion and Apparel Engineering ",
+   "Academic_Program_Name": "Fashion and Apparel Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10803,7 +10803,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Fashion and Apparel Engineering ",
+   "Academic_Program_Name": "Fashion and Apparel Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10814,7 +10814,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Fashion and Apparel Engineering ",
+   "Academic_Program_Name": "Fashion and Apparel Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10825,7 +10825,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Fashion and Apparel Engineering ",
+   "Academic_Program_Name": "Fashion and Apparel Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10836,7 +10836,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Fashion and Apparel Engineering ",
+   "Academic_Program_Name": "Fashion and Apparel Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10847,7 +10847,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10858,7 +10858,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10869,7 +10869,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10880,7 +10880,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10891,7 +10891,7 @@ export const GFTI = [
  },
  {
    "Institute": "Institute of Engineering and Technology Dr. H. S. Gour University. Sagar (A Central University)",
-   "Academic Program Name": "Food Engineering  and Technology ",
+   "Academic_Program_Name": "Food Engineering  and Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10902,7 +10902,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10913,7 +10913,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10924,7 +10924,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10935,7 +10935,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10946,7 +10946,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10957,7 +10957,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10968,7 +10968,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10979,7 +10979,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -10990,7 +10990,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11001,7 +11001,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11012,7 +11012,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11023,7 +11023,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11034,7 +11034,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11045,7 +11045,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11056,7 +11056,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11067,7 +11067,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Electrical Engineering ",
+   "Academic_Program_Name": "Electrical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11078,7 +11078,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Printing and Packaging Technology ",
+   "Academic_Program_Name": "Printing and Packaging Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11089,7 +11089,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Printing and Packaging Technology ",
+   "Academic_Program_Name": "Printing and Packaging Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11100,7 +11100,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Printing and Packaging Technology ",
+   "Academic_Program_Name": "Printing and Packaging Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11111,7 +11111,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Printing and Packaging Technology ",
+   "Academic_Program_Name": "Printing and Packaging Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11122,7 +11122,7 @@ export const GFTI = [
  },
  {
    "Institute": "Central University of Haryana",
-   "Academic Program Name": "Printing and Packaging Technology ",
+   "Academic_Program_Name": "Printing and Packaging Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11133,7 +11133,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11144,7 +11144,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11155,7 +11155,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11166,7 +11166,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11177,7 +11177,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11188,7 +11188,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11199,7 +11199,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11210,7 +11210,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11221,7 +11221,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11232,7 +11232,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11243,7 +11243,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11254,7 +11254,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11265,7 +11265,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11276,7 +11276,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11287,7 +11287,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11298,7 +11298,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11309,7 +11309,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11320,7 +11320,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11331,7 +11331,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11342,7 +11342,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11353,7 +11353,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11364,7 +11364,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11375,7 +11375,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11386,7 +11386,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11397,7 +11397,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11408,7 +11408,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11419,7 +11419,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11430,7 +11430,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11441,7 +11441,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11452,7 +11452,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11463,7 +11463,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11474,7 +11474,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11485,7 +11485,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11496,7 +11496,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11507,7 +11507,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11518,7 +11518,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11529,7 +11529,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11540,7 +11540,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11551,7 +11551,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11562,7 +11562,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11573,7 +11573,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11584,7 +11584,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11595,7 +11595,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11606,7 +11606,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11617,7 +11617,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11628,7 +11628,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Deoghar Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11639,7 +11639,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11650,7 +11650,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11661,7 +11661,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11672,7 +11672,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11683,7 +11683,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11694,7 +11694,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11705,7 +11705,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11716,7 +11716,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11727,7 +11727,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11738,7 +11738,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11749,7 +11749,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11760,7 +11760,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Artificial Intelligence and Machine Learning ",
+   "Academic_Program_Name": "Artificial Intelligence and Machine Learning ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11771,7 +11771,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11782,7 +11782,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11793,7 +11793,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11804,7 +11804,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11815,7 +11815,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11826,7 +11826,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11837,7 +11837,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11848,7 +11848,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11859,7 +11859,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11870,7 +11870,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11881,7 +11881,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Civil Engineering ",
+   "Academic_Program_Name": "Civil Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11892,7 +11892,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11903,7 +11903,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11914,7 +11914,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11925,7 +11925,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11936,7 +11936,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11947,7 +11947,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11958,7 +11958,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11969,7 +11969,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -11980,7 +11980,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -11991,7 +11991,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12002,7 +12002,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12013,7 +12013,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12024,7 +12024,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Computer Science and Engineering ",
+   "Academic_Program_Name": "Computer Science and Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12035,7 +12035,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12046,7 +12046,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12057,7 +12057,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12068,7 +12068,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12079,7 +12079,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12090,7 +12090,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12101,7 +12101,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12112,7 +12112,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12123,7 +12123,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12134,7 +12134,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12145,7 +12145,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electrical and Electronics Engineering ",
+   "Academic_Program_Name": "Electrical and Electronics Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12156,7 +12156,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12167,7 +12167,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12178,7 +12178,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12189,7 +12189,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12200,7 +12200,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12211,7 +12211,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12222,7 +12222,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12233,7 +12233,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12244,7 +12244,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12255,7 +12255,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12266,7 +12266,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Electronics and Communication Engineering ",
+   "Academic_Program_Name": "Electronics and Communication Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12277,7 +12277,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12288,7 +12288,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12299,7 +12299,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12310,7 +12310,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12321,7 +12321,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12332,7 +12332,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12343,7 +12343,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12354,7 +12354,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12365,7 +12365,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12376,7 +12376,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12387,7 +12387,7 @@ export const GFTI = [
  },
  {
    "Institute": "Birla Institute of Technology Patna Off-Campus",
-   "Academic Program Name": "Mechanical Engineering ",
+   "Academic_Program_Name": "Mechanical Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "HS",
@@ -12398,7 +12398,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology Salem",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12409,7 +12409,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology Salem",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12420,7 +12420,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology Salem",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12431,7 +12431,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology Salem",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12442,7 +12442,7 @@ export const GFTI = [
  },
  {
    "Institute": "Indian Institute of Handloom Technology Salem",
-   "Academic Program Name": "Handloom and Textile Technology ",
+   "Academic_Program_Name": "Handloom and Textile Technology ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12453,7 +12453,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12464,7 +12464,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12475,7 +12475,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12486,7 +12486,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12497,7 +12497,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12508,7 +12508,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12519,7 +12519,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12530,7 +12530,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12541,7 +12541,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12552,7 +12552,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
+   "Academic_Program_Name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12563,7 +12563,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12574,7 +12574,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12585,7 +12585,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12596,7 +12596,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12607,7 +12607,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12618,7 +12618,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12629,7 +12629,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12640,7 +12640,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12651,7 +12651,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Aviation Engineering ",
+   "Academic_Program_Name": "B.Tech in Aviation Engineering ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12662,7 +12662,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12673,7 +12673,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12684,7 +12684,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12695,7 +12695,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12706,7 +12706,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12717,7 +12717,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12728,7 +12728,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12739,7 +12739,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12750,7 +12750,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12761,7 +12761,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Civil Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Civil Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12772,7 +12772,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12783,7 +12783,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12794,7 +12794,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12805,7 +12805,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12816,7 +12816,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12827,7 +12827,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12838,7 +12838,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12849,7 +12849,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12860,7 +12860,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electrical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12871,7 +12871,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12882,7 +12882,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12893,7 +12893,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12904,7 +12904,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12915,7 +12915,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12926,7 +12926,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12937,7 +12937,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12948,7 +12948,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
+   "Academic_Program_Name": "B.Tech in Electronics  Communication Engineering (Rail Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12959,7 +12959,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12970,7 +12970,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12981,7 +12981,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -12992,7 +12992,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -13003,7 +13003,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -13014,7 +13014,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -13025,7 +13025,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -13036,7 +13036,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -13047,7 +13047,7 @@ export const GFTI = [
  },
  {
    "Institute": "Gati Shakti Vishwavidyalaya Vadodara",
-   "Academic Program Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
+   "Academic_Program_Name": "B.Tech in Mechanical Engineering ( Rail  Engineering) ",
    "duration": "4 Years",
    "Degree_Type": " Bachelor of Technology)",
    "Quota": "AI",
@@ -13058,7 +13058,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13069,7 +13069,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13080,7 +13080,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13091,7 +13091,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13102,7 +13102,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Civil Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13113,7 +13113,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13124,7 +13124,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13135,7 +13135,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13146,7 +13146,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13157,7 +13157,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Computer Science  Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13168,7 +13168,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13179,7 +13179,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13190,7 +13190,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13201,7 +13201,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13212,7 +13212,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13223,7 +13223,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech. - M. Tech in Electrical Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13234,7 +13234,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13245,7 +13245,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13256,7 +13256,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13267,7 +13267,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
@@ -13278,7 +13278,7 @@ export const GFTI = [
  },
  {
    "Institute": "CU Jharkhand",
-   "Academic Program Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
+   "Academic_Program_Name": "Integrated B. Tech.- M. Tech in Metallurgical  Materials Engineering ",
    "duration": "5 Years",
    "Degree_Type": " Integrated B. Tech. and M. Tech.)",
    "Quota": "AI",
