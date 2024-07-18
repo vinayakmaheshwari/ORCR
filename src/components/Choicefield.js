@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { iits, iiits, nits, JAC, BITS, gftis } from "./Values";
 import { NIT } from "./NIT";
 import { IIIT } from "./IIIT";
 import { GFTI } from "./GFTI";
@@ -78,6 +77,14 @@ export default function Choicefield() {
     return (val = [...new Set(val)]);
   };
   const uniqueGender = getUniqueGender();
+
+  const getUniqueClgName = () => {
+    let val = dataTemp.map((currElem) => {
+      return currElem.Institute;
+    });
+    return (val = [...new Set(val)]);
+  };
+  const uniqueClgName = getUniqueClgName();
 
   const handleExamChange = (event) => {
     setExam(event.target.value);
@@ -212,122 +219,11 @@ export default function Choicefield() {
             <div id="clgNameInfo">
               <button className="infoButton">Institute Name</button>
               <br />
-              {typeOfInstituteName === "IIT" && (
-                <select
-                  id="clgName"
-                  className="dropdownSelect"
-                  onChange={(e) => {
-                    setClgName(e.target.value);
-                    setProgram("");
-                  }}
-                >
-                  <option value="">ALL</option>
-                  {iits.map((iit) => {
-                    return <option value={iit.name}>{iit.shortName}</option>;
-                  })}
-                </select>
-              )}
-
-              {typeOfInstituteName === "" && (
-                <select
-                  id="clgName"
-                  className="dropdownSelect"
-                  onChange={(e) => {
-                    setClgName(e.target.value);
-                    setProgram("");
-                  }}
-                >
-                  <option value="">ALL</option>
-                  {nits.map((nit) => {
-                    return <option>{nit}</option>;
-                  })}
-                  {iiits.map((iiit) => {
-                    return <option>{iiit}</option>;
-                  })}
-                  {gftis.map((gfti) => {
-                    return <option>{gfti}</option>;
-                  })}
-                  {JAC.map((jac) => {
-                    return <option value={jac.name}>{jac.shortName}</option>;
-                  })}
-                </select>
-              )}
-
-              {typeOfInstituteName === "NIT" && (
-                <select
-                  id="clgName"
-                  className="dropdownSelect"
-                  onChange={(e) => {
-                    setClgName(e.target.value);
-                    setProgram("");
-                  }}
-                >
-                  <option value="">ALL</option>
-                  {nits.map((nit) => {
-                    return <option>{nit}</option>;
-                  })}
-                </select>
-              )}
-
-              {typeOfInstituteName === "IIIT" && (
-                <select
-                  id="clgName"
-                  className="dropdownSelect"
-                  onChange={(e) => {
-                    setClgName(e.target.value);
-                    setProgram("");
-                  }}
-                >
-                  <option value="">ALL</option>
-                  {iiits.map((iiit) => {
-                    return <option>{iiit}</option>;
-                  })}
-                </select>
-              )}
-
-              {typeOfInstituteName === "GFTI" && (
-                <select
-                  id="clgName"
-                  className="dropdownSelect"
-                  onChange={(e) => {
-                    setClgName(e.target.value);
-                    setProgram("");
-                  }}
-                >
-                  <option value="">ALL</option>
-                  {gftis.map((gfti) => {
-                    return <option>{gfti}</option>;
-                  })}
-                </select>
-              )}
-
-              {typeOfInstituteName === "JAC" && (
-                <select
-                  id="clgName"
-                  className="dropdownSelect"
-                  onChange={(e) => {
-                    setClgName(e.target.value);
-                    setProgram("");
-                  }}
-                >
-                  <option value="">ALL</option>
-                  {JAC.map((jac) => {
-                    return <option value={jac.name}>{jac.shortName}</option>;
-                  })}
-                </select>
-              )}
-              {typeOfInstituteName === "BITS" && (
-                <select
-                  id="clgName"
-                  className="dropdownSelect"
-                  onChange={(e) => setClgName(e.target.value)}
-                >
-                  <option value="">ALL</option>
-                  {BITS.map((bits) => {
-                    return <option value={bits}>{bits}</option>;
-                  })}
-                </select>
-              )}
+              <select className="dropdownSelect" id="clgName" onChange={(e) => setClgName(e.target.value)}>
+                {uniqueClgName.map((val) => {
+                  return <option value={val}>{val}</option>;
+                })}
+              </select>
             </div>
             <div id="programInfo">
               <button className="infoButton">Program</button>
