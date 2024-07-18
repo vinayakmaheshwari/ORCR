@@ -4,7 +4,6 @@ import { IIIT } from "./IIIT";
 import { GFTI } from "./GFTI";
 import { advClgs } from "./iits";
 import Pagination from "./Pagination";
-import { MainsClgAll } from "./MainsClgAll";
 import { BITSClg } from "./BITS";
 import { JACClgs } from "./JAC";
 
