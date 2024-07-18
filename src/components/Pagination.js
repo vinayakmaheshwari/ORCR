@@ -4,7 +4,6 @@ import { NIT } from "./NIT";
 import { IIIT } from "./IIIT";
 import { GFTI } from "./GFTI";
 import Table from "./Table";
-import { MainsClgAll } from "./MainsClgAll";
 import { BITSClg } from "./BITS";
 import { JACClgs } from "./JAC";
 
