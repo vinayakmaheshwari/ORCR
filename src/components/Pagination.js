@@ -31,7 +31,7 @@ export default function Pagination(props) {
       dataTemp = advClgs;
     } else if (exam === "JEE Mains") {
       if (typeOfInstituteName === "") {
-        dataTemp = MainsClgAll;
+        dataTemp = NIT.concat(IIIT, GFTI, JACClgs);
       } else if (typeOfInstituteName === "NIT") {
         dataTemp = NIT;
       } else if (typeOfInstituteName === "IIIT") {
