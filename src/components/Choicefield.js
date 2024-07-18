@@ -4,6 +4,7 @@ import { IIIT } from "./IIIT";
 import { GFTI } from "./GFTI";
 import { advClgs } from "./iits";
 import Pagination from "./Pagination";
+import { MainsClgAll } from "./MainsClgAll";
 import { BITSClg } from "./BITS";
 import { JACClgs } from "./JAC";
 
@@ -47,7 +48,13 @@ export default function Choicefield() {
 
   const getUniqueProgram = () => {
     let val = dataTemp.map((currElem) => {
-      return currElem.Academic_Program_Name;
+      if (!clgName) {
+        return currElem.Academic_Program_Name;
+      } else if (clgName) {
+        if (currElem.Institute === clgName) {
+          return currElem.Academic_Program_Name;
+        }
+      }
     });
     return (val = [...new Set(val)]);
   };
@@ -55,7 +62,13 @@ export default function Choicefield() {
 
   const getUniqueQuota = () => {
     let val = dataTemp.map((currElem) => {
-      return currElem.Quota;
+      if (!clgName) {
+        return currElem.Quota;
+      } else if (clgName) {
+        if (currElem.Institute === clgName) {
+          return currElem.Quota;
+        }
+      }
     });
     return (val = [...new Set(val)]);
   };
@@ -63,7 +76,13 @@ export default function Choicefield() {
 
   const getUniqueCategory = () => {
     let val = dataTemp.map((currElem) => {
-      return currElem.Seat_Type;
+      if (!clgName) {
+        return currElem.Seat_Type;
+      } else if (clgName) {
+        if (currElem.Institute === clgName) {
+          return currElem.Seat_Type;
+        }
+      }
     });
     return (val = [...new Set(val)]);
   };
@@ -101,14 +120,7 @@ export default function Choicefield() {
     }
   };
 
-  const handleTypeOfInstituteChange = (event) => {
-    setTypeOfInstituteName(event.target.value);
-    setClgName("");
-    setCategory("");
-    setProgram("");
-    setQuota("");
-    setPool("");
-  };
+ 
 
   return (
     <>
@@ -151,7 +163,7 @@ export default function Choicefield() {
               >
                 <option value="">ALL</option>
                 {uniqueCategory.map((val) => {
-                  return <option value={val}>{val}</option>;
+                  if(val !== null) return <option value={val}>{val}</option>;
                 })}
               </select>
             </div>
@@ -179,7 +191,13 @@ export default function Choicefield() {
                 <select
                   className="dropdownSelect"
                   id="typeOfInstitute"
-                  onChange={handleTypeOfInstituteChange}
+                  onChange={(e) => {
+                    setTypeOfInstituteName(e.target.value);
+                    setClgName("");
+                    setCategory("");
+                    setProgram("");
+                    setQuota("");
+                    setPool("")}}
                 >
                   <option value="IIT">IIT</option>
                 </select>
@@ -191,8 +209,10 @@ export default function Choicefield() {
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
                     setClgName("");
+                    setCategory("");
                     setProgram("");
-                  }}
+                    setQuota("");
+                    setPool("")}}
                 >
                   <option value="">ALL</option>
                   <option value="NIT">NIT</option>
@@ -208,8 +228,10 @@ export default function Choicefield() {
                   onChange={(e) => {
                     setTypeOfInstituteName(e.target.value);
                     setClgName("");
+                    setCategory("");
                     setProgram("");
-                  }}
+                    setQuota("");
+                    setPool("")}}
                 >
                   <option value="BITS">BITS</option>
                 </select>
@@ -218,7 +240,12 @@ export default function Choicefield() {
             <div id="clgNameInfo">
               <button className="infoButton">Institute Name</button>
               <br />
-              <select className="dropdownSelect" id="clgName" onChange={(e) => setClgName(e.target.value)}>
+              <select
+                className="dropdownSelect"
+                id="clgName"
+                onChange={(e) => {setClgName(e.target.value); setProgram("")}}
+              >
+                <option value="">ALL</option>
                 {uniqueClgName.map((val) => {
                   return <option value={val}>{val}</option>;
                 })}
